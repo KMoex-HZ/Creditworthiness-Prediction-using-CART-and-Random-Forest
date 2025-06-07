@@ -11,7 +11,7 @@ This project explores the prediction of creditworthiness using machine learning,
 - `requirements.txt` – list of dependencies.
 - `README.md` – this file.
 
-  ## 🗃️ Dataset Description
+## 🗃️ Dataset Description
 
 This project uses the **German Credit Dataset** from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)).
 
