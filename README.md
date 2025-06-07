@@ -88,7 +88,7 @@ ROSE (Random Over Sampling Examples) was used to balance the dataset and improve
 
 1. Clone the repository
 2. Open R or RStudio
-3. Install dependencies from `sessionInfo.txt`
+3. Download the dataset
 4. Execute the scripts in order from the `R/` directory
 
 ---
