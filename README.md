@@ -2,14 +2,15 @@
 
 This project explores the prediction of creditworthiness using machine learning, specifically Decision Tree (CART) and Random Forest algorithms. It handles class imbalance using ROSE and compares model performance with various configurations (balanced vs. unbalanced, pruned vs. unpruned).
 
-## 📁 Project Structure
+## 🛠️ Tech Stack
 
-- `data/` – contains dataset used for modeling.
-- `notebooks/` – Jupyter notebook for EDA and modeling workflow.
-- `src/` – modular Python scripts for preprocessing, modeling, and evaluation.
-- `results/` – saved figures and result metrics.
-- `requirements.txt` – list of dependencies.
-- `README.md` – this file.
+- **Language**: R
+- **Key Libraries**:
+  - `rpart`, `rpart.plot` – CART modeling and visualization
+  - `randomForest` – Random Forest modeling
+  - `ROSE` – Class imbalance handling
+  - `caret` – Evaluation metrics
+  - `ggplot2`, `dplyr`, `tidyr` – Data manipulation and plotting
 
 ## 🗃️ Dataset Description
 
@@ -44,6 +45,19 @@ This project uses the **German Credit Dataset** from the [UCI Machine Learning R
 
 The dataset is publicly available and widely used as a benchmark in credit scoring research. It contains no missing values and a class imbalance of 70% `Good` vs 30% `Bad` credit records.
 
+## 🔍 Workflow Overview
+
+1. **Exploratory Data Analysis & Cleaning**
+2. **Class Balancing** using `ROSE`
+3. **Modeling**:
+   - CART (with and without pruning)
+   - Random Forest (with and without balancing)
+4. **Evaluation** using:
+   - Accuracy, Recall, Specificity, F1-Score
+   - Kappa
+   - Balanced Accuracy
+
+---
 
 ## 🧪 Models Implemented
 
@@ -69,6 +83,15 @@ ROSE (Random Over Sampling Examples) was used to balance the dataset and improve
   - Credit Purpose
   - Credit History
   - Employment
+ 
+## 🚀 How to Run
+
+1. Clone the repository
+2. Open R or RStudio
+3. Install dependencies from `sessionInfo.txt`
+4. Execute the scripts in order from the `R/` directory
+
+---
 
 ## 📌 Conclusion
 
@@ -87,4 +110,10 @@ Institute: Institut Teknologi Sumatera – Data Science
 
 ## 📚 References
 
-See the `pdf` for a detailed list of academic references.
+- [UCI German Credit Dataset](https://doi.org/10.24432/C5NC77)
+- Breiman et al. (1984). *Classification and Regression Trees*
+- Breiman (2001). *Random Forests*
+- Menardi & Torelli (2014). *ROSE*
+- Mingers (1989). *Pruning Decision Trees*
+
+---
