@@ -1,0 +1,1001 @@
+Status Rekening,Durasi dalam bulan,Riwayat Kredit,Tujuan Kredit,Jumlah Kredit (DM),Tabungan/Bonds,Pekerjaan Saat Ini,Tingkat Angsuran (%),Status Pribadi dan Jenis Kelamin,Debitur / Penjamin,Tinggal di Tempat Saat Ini,Properti,Usia (tahun),Rencana Angsuran Lain,Tempat Tinggal,Jumlah Kredit di Bank Ini,Pekerjaan,Jumlah Tanggungan,Nomor Telepon,Pekerja Migran,Kelayakan Kredit
+< 0 DM,6,Masalah / kredit di luar bank,TV / Radio,1169,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Properti,67,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,48,Kredit berjalan lancar,TV / Radio,5951,< 100 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,2,Properti,22,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,12,Masalah / kredit di luar bank,Pendidikan,2096,< 100 DM,4-7 thn,2,Pria lajang,Tidak ada,3,Properti,49,Tidak ada,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+< 0 DM,42,Kredit berjalan lancar,Furniture,7882,< 100 DM,4-7 thn,2,Pria lajang,Penjamin,4,Tabungan/Asuransi,45,Tidak ada,Gratis,1,Terampil / pegawai,2,Tidak ada,Ya,Baik
+< 0 DM,24,Pernah telat bayar,Mobil baru,4870,< 100 DM,1-4 thn,3,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,53,Tidak ada,Gratis,2,Terampil / pegawai,2,Tidak ada,Ya,Buruk
+Tidak ada rekening,36,Kredit berjalan lancar,Pendidikan,9055,Tidak ada / tidak tahu,1-4 thn,2,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,35,Tidak ada,Gratis,1,Tidak terampil (residen),2,Ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,Furniture,2835,500-999 DM,>= 7 thn,3,Pria lajang,Tidak ada,4,Tabungan/Asuransi,53,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,36,Kredit berjalan lancar,Mobil bekas,6948,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Mobil / lainnya,35,Tidak ada,Sewa,1,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,TV / Radio,3059,>= 1000 DM,4-7 thn,2,Pria cerai/pisah,Tidak ada,4,Properti,61,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,30,Masalah / kredit di luar bank,Mobil baru,5234,< 100 DM,Menganggur,4,Pria menikah/duda,Tidak ada,2,Mobil / lainnya,28,Tidak ada,Milik sendiri,2,Manajer / profesional,1,Tidak ada,Ya,Buruk
+0-199 DM,12,Kredit berjalan lancar,Mobil baru,1295,< 100 DM,< 1 thn,3,Wanita menikah/cerai,Tidak ada,1,Mobil / lainnya,25,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,48,Kredit berjalan lancar,Bisnis,4308,< 100 DM,< 1 thn,3,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,24,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,12,Kredit berjalan lancar,TV / Radio,1567,< 100 DM,1-4 thn,1,Wanita menikah/cerai,Tidak ada,1,Mobil / lainnya,22,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,24,Masalah / kredit di luar bank,Mobil baru,1199,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,60,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+< 0 DM,15,Kredit berjalan lancar,Mobil baru,1403,< 100 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,28,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,24,Kredit berjalan lancar,TV / Radio,1282,100-499 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,32,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+Tidak ada rekening,24,Masalah / kredit di luar bank,TV / Radio,2424,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,53,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,30,Tidak pernah kredit / selalu lancar,Bisnis,8072,Tidak ada / tidak tahu,< 1 thn,2,Pria lajang,Tidak ada,3,Mobil / lainnya,25,Bank,Milik sendiri,3,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,24,Kredit berjalan lancar,Mobil bekas,12579,< 100 DM,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,2,Tidak ada / tidak tahu,44,Tidak ada,Gratis,1,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,24,Kredit berjalan lancar,TV / Radio,3430,500-999 DM,>= 7 thn,3,Pria lajang,Tidak ada,2,Mobil / lainnya,31,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Ada,Ya,Baik
+Tidak ada rekening,9,Masalah / kredit di luar bank,Mobil baru,2134,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,48,Tidak ada,Milik sendiri,3,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,6,Kredit berjalan lancar,TV / Radio,2647,500-999 DM,1-4 thn,2,Pria lajang,Tidak ada,3,Properti,44,Tidak ada,Sewa,1,Terampil / pegawai,2,Tidak ada,Ya,Baik
+< 0 DM,10,Masalah / kredit di luar bank,Mobil baru,2241,< 100 DM,< 1 thn,1,Pria lajang,Tidak ada,3,Properti,48,Tidak ada,Sewa,2,Tidak terampil (residen),2,Tidak ada,Bukan,Baik
+0-199 DM,12,Masalah / kredit di luar bank,Mobil bekas,1804,100-499 DM,< 1 thn,3,Pria lajang,Tidak ada,4,Tabungan/Asuransi,44,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,10,Masalah / kredit di luar bank,Furniture,2069,Tidak ada / tidak tahu,1-4 thn,2,Pria menikah/duda,Tidak ada,1,Mobil / lainnya,26,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Bukan,Baik
+< 0 DM,6,Kredit berjalan lancar,Furniture,1374,< 100 DM,1-4 thn,1,Pria lajang,Tidak ada,2,Properti,36,Bank,Milik sendiri,1,Tidak terampil (residen),1,Ada,Ya,Baik
+Tidak ada rekening,6,Tidak pernah kredit / selalu lancar,TV / Radio,426,< 100 DM,>= 7 thn,4,Pria menikah/duda,Tidak ada,4,Mobil / lainnya,39,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,12,Kredit di bank ini lancar,TV / Radio,409,>= 1000 DM,1-4 thn,3,Wanita menikah/cerai,Tidak ada,3,Properti,42,Tidak ada,Sewa,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,7,Kredit berjalan lancar,TV / Radio,2415,< 100 DM,1-4 thn,3,Pria lajang,Penjamin,2,Properti,34,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,60,Pernah telat bayar,Bisnis,6836,< 100 DM,>= 7 thn,3,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,63,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Buruk
+0-199 DM,18,Kredit berjalan lancar,Bisnis,1913,>= 1000 DM,< 1 thn,3,Pria menikah/duda,Tidak ada,3,Properti,36,Bank,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,24,Kredit berjalan lancar,Furniture,4020,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Mobil / lainnya,27,Toko,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,18,Kredit berjalan lancar,Mobil baru,5866,100-499 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Mobil / lainnya,30,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,Bisnis,1264,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,57,Tidak ada,Sewa,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,12,Kredit berjalan lancar,Furniture,1474,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,1,Tabungan/Asuransi,33,Bank,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,45,Masalah / kredit di luar bank,TV / Radio,4746,< 100 DM,< 1 thn,4,Pria lajang,Tidak ada,2,Tabungan/Asuransi,25,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+Tidak ada rekening,48,Masalah / kredit di luar bank,Pendidikan,6110,< 100 DM,1-4 thn,1,Pria lajang,Tidak ada,3,Tidak ada / tidak tahu,31,Bank,Gratis,1,Terampil / pegawai,1,Ada,Ya,Baik
+>= 200 DM / gaji tetap,18,Kredit berjalan lancar,TV / Radio,2100,< 100 DM,1-4 thn,4,Pria lajang,Ko-pemohon,2,Properti,37,Toko,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+>= 200 DM / gaji tetap,10,Kredit berjalan lancar,Peralatan rumah,1225,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Mobil / lainnya,37,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,9,Kredit berjalan lancar,TV / Radio,458,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,3,Properti,24,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,30,Kredit berjalan lancar,TV / Radio,2333,500-999 DM,>= 7 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,30,Bank,Milik sendiri,1,Manajer / profesional,1,Tidak ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,TV / Radio,1158,500-999 DM,1-4 thn,3,Pria cerai/pisah,Tidak ada,1,Mobil / lainnya,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,18,Pernah telat bayar,Renovasi,6204,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,4,Properti,44,Tidak ada,Milik sendiri,1,Tidak terampil (residen),2,Ada,Ya,Baik
+< 0 DM,30,Masalah / kredit di luar bank,Mobil bekas,6187,100-499 DM,4-7 thn,1,Pria menikah/duda,Tidak ada,4,Mobil / lainnya,24,Tidak ada,Sewa,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,48,Masalah / kredit di luar bank,Mobil bekas,6143,< 100 DM,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,4,Tidak ada / tidak tahu,58,Toko,Gratis,2,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+Tidak ada rekening,11,Masalah / kredit di luar bank,Mobil baru,1393,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,35,Tidak ada,Milik sendiri,2,Manajer / profesional,1,Tidak ada,Ya,Baik
+Tidak ada rekening,36,Kredit berjalan lancar,TV / Radio,2299,500-999 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,39,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,6,Kredit berjalan lancar,Mobil bekas,1352,500-999 DM,Menganggur,1,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,23,Tidak ada,Sewa,1,Pengangguran / tidak terampil (non-residen),1,Ada,Ya,Baik
+Tidak ada rekening,11,Masalah / kredit di luar bank,Mobil baru,7228,< 100 DM,1-4 thn,1,Pria lajang,Tidak ada,4,Tabungan/Asuransi,39,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,TV / Radio,2073,100-499 DM,1-4 thn,4,Wanita menikah/cerai,Ko-pemohon,2,Properti,28,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,24,Pernah telat bayar,Furniture,2333,Tidak ada / tidak tahu,< 1 thn,4,Pria lajang,Tidak ada,2,Tabungan/Asuransi,29,Bank,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,27,Pernah telat bayar,Mobil bekas,5965,< 100 DM,>= 7 thn,1,Pria lajang,Tidak ada,2,Mobil / lainnya,30,Tidak ada,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,TV / Radio,1262,< 100 DM,1-4 thn,3,Pria lajang,Tidak ada,2,Mobil / lainnya,25,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Kredit berjalan lancar,Mobil bekas,3378,Tidak ada / tidak tahu,1-4 thn,2,Pria lajang,Tidak ada,1,Tabungan/Asuransi,31,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,36,Pernah telat bayar,Mobil baru,2225,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,57,Bank,Gratis,2,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,6,Kredit di bank ini lancar,Mobil baru,783,Tidak ada / tidak tahu,1-4 thn,1,Pria lajang,Penjamin,2,Properti,26,Toko,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,TV / Radio,6468,Tidak ada / tidak tahu,Menganggur,2,Pria lajang,Tidak ada,1,Tidak ada / tidak tahu,52,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,36,Masalah / kredit di luar bank,TV / Radio,9566,< 100 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,31,Toko,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,18,Kredit berjalan lancar,Mobil baru,1961,< 100 DM,>= 7 thn,3,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,23,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Tidak ada,Ya,Baik
+< 0 DM,36,Masalah / kredit di luar bank,Furniture,6229,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Ko-pemohon,4,Tidak ada / tidak tahu,23,Tidak ada,Sewa,2,Tidak terampil (residen),1,Ada,Ya,Buruk
+0-199 DM,9,Kredit berjalan lancar,Bisnis,1391,< 100 DM,1-4 thn,2,Pria menikah/duda,Tidak ada,1,Properti,27,Bank,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,15,Masalah / kredit di luar bank,TV / Radio,1537,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Penjamin,4,Properti,50,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,36,Tidak pernah kredit / selalu lancar,Bisnis,1953,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,61,Tidak ada,Gratis,1,Manajer / profesional,1,Ada,Ya,Buruk
+0-199 DM,48,Tidak pernah kredit / selalu lancar,Bisnis,14421,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Mobil / lainnya,25,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,24,Kredit berjalan lancar,TV / Radio,3181,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,27,Kredit berjalan lancar,Renovasi,5190,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,48,Tidak ada,Milik sendiri,4,Terampil / pegawai,2,Ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,TV / Radio,2171,< 100 DM,< 1 thn,2,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,29,Bank,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,Mobil baru,1007,>= 1000 DM,1-4 thn,4,Pria menikah/duda,Tidak ada,1,Properti,22,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,36,Kredit berjalan lancar,Pendidikan,1819,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,37,Toko,Gratis,1,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,36,Kredit berjalan lancar,TV / Radio,2394,Tidak ada / tidak tahu,1-4 thn,4,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,25,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,36,Kredit berjalan lancar,Mobil bekas,8133,< 100 DM,1-4 thn,1,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,30,Bank,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,7,Masalah / kredit di luar bank,TV / Radio,730,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,2,Tabungan/Asuransi,46,Tidak ada,Sewa,2,Tidak terampil (residen),1,Ada,Ya,Baik
+< 0 DM,8,Masalah / kredit di luar bank,Lainnya,1164,< 100 DM,>= 7 thn,3,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,51,Bank,Gratis,2,Manajer / profesional,2,Ada,Ya,Baik
+0-199 DM,42,Masalah / kredit di luar bank,Bisnis,5954,< 100 DM,4-7 thn,2,Wanita menikah/cerai,Tidak ada,1,Properti,41,Bank,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,36,Kredit berjalan lancar,Pendidikan,1977,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,40,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Buruk
+< 0 DM,12,Masalah / kredit di luar bank,Mobil bekas,1526,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,66,Tidak ada,Gratis,2,Manajer / profesional,1,Tidak ada,Ya,Baik
+< 0 DM,42,Kredit berjalan lancar,TV / Radio,3965,< 100 DM,< 1 thn,4,Pria lajang,Tidak ada,3,Mobil / lainnya,34,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,11,Pernah telat bayar,TV / Radio,4771,< 100 DM,4-7 thn,2,Pria lajang,Tidak ada,4,Tabungan/Asuransi,51,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,54,Tidak pernah kredit / selalu lancar,Mobil bekas,9436,Tidak ada / tidak tahu,1-4 thn,2,Pria lajang,Tidak ada,2,Tabungan/Asuransi,39,Tidak ada,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+0-199 DM,30,Kredit berjalan lancar,Furniture,3832,< 100 DM,< 1 thn,2,Pria menikah/duda,Tidak ada,1,Tabungan/Asuransi,22,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,TV / Radio,5943,Tidak ada / tidak tahu,< 1 thn,1,Wanita menikah/cerai,Tidak ada,1,Mobil / lainnya,44,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,15,Kredit berjalan lancar,TV / Radio,1213,500-999 DM,>= 7 thn,4,Pria lajang,Tidak ada,3,Tabungan/Asuransi,47,Toko,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,18,Kredit berjalan lancar,Bisnis,1568,100-499 DM,1-4 thn,3,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,24,Tidak ada,Sewa,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,24,Kredit berjalan lancar,Lainnya,1755,< 100 DM,>= 7 thn,4,Wanita menikah/cerai,Penjamin,4,Properti,58,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Ada,Ya,Baik
+< 0 DM,10,Kredit berjalan lancar,TV / Radio,2315,< 100 DM,>= 7 thn,3,Pria lajang,Tidak ada,4,Properti,52,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,Bisnis,1412,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Penjamin,2,Properti,29,Tidak ada,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,18,Masalah / kredit di luar bank,Furniture,1295,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,1,Tabungan/Asuransi,27,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,36,Kredit berjalan lancar,Pendidikan,12612,100-499 DM,1-4 thn,1,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,47,Tidak ada,Gratis,1,Terampil / pegawai,2,Ada,Ya,Buruk
+< 0 DM,18,Kredit berjalan lancar,Mobil baru,2249,100-499 DM,4-7 thn,4,Pria lajang,Tidak ada,3,Mobil / lainnya,30,Tidak ada,Milik sendiri,1,Manajer / profesional,2,Ada,Ya,Baik
+< 0 DM,12,Tidak pernah kredit / selalu lancar,Renovasi,1108,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,3,Properti,28,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,12,Masalah / kredit di luar bank,TV / Radio,618,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Properti,56,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,12,Masalah / kredit di luar bank,Mobil bekas,1409,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,3,Properti,54,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,TV / Radio,797,Tidak ada / tidak tahu,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,3,Tabungan/Asuransi,33,Bank,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Ya,Buruk
+>= 200 DM / gaji tetap,24,Masalah / kredit di luar bank,Furniture,3617,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Ko-pemohon,4,Tidak ada / tidak tahu,20,Tidak ada,Sewa,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,Mobil baru,1318,>= 1000 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Properti,54,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,54,Tidak pernah kredit / selalu lancar,Bisnis,15945,< 100 DM,< 1 thn,3,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,58,Tidak ada,Sewa,1,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,12,Masalah / kredit di luar bank,Pendidikan,2012,Tidak ada / tidak tahu,4-7 thn,4,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,61,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,18,Kredit berjalan lancar,Bisnis,2622,100-499 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,34,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,36,Masalah / kredit di luar bank,TV / Radio,2337,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Properti,36,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,20,Pernah telat bayar,Mobil bekas,7057,Tidak ada / tidak tahu,4-7 thn,3,Pria lajang,Tidak ada,4,Tabungan/Asuransi,36,Bank,Sewa,2,Manajer / profesional,2,Ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,Mobil baru,1469,100-499 DM,>= 7 thn,4,Pria menikah/duda,Tidak ada,4,Properti,41,Tidak ada,Sewa,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,36,Kredit berjalan lancar,TV / Radio,2323,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,24,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,6,Pernah telat bayar,TV / Radio,932,< 100 DM,1-4 thn,3,Wanita menikah/cerai,Tidak ada,2,Properti,24,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,9,Masalah / kredit di luar bank,Furniture,1919,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,3,Mobil / lainnya,35,Tidak ada,Sewa,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,Mobil bekas,2445,Tidak ada / tidak tahu,< 1 thn,2,Pria menikah/duda,Tidak ada,4,Mobil / lainnya,26,Tidak ada,Sewa,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,24,Masalah / kredit di luar bank,Lainnya,11938,< 100 DM,1-4 thn,2,Pria lajang,Ko-pemohon,3,Mobil / lainnya,39,Tidak ada,Milik sendiri,2,Manajer / profesional,2,Ada,Ya,Buruk
+Tidak ada rekening,18,Kredit di bank ini lancar,Mobil baru,6458,< 100 DM,>= 7 thn,2,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,39,Bank,Milik sendiri,2,Manajer / profesional,2,Ada,Ya,Buruk
+0-199 DM,12,Kredit berjalan lancar,Mobil baru,6078,< 100 DM,4-7 thn,2,Pria lajang,Tidak ada,2,Mobil / lainnya,32,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,24,Kredit berjalan lancar,Furniture,7721,Tidak ada / tidak tahu,< 1 thn,1,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,30,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Bukan,Baik
+0-199 DM,14,Kredit berjalan lancar,Bisnis,1410,500-999 DM,>= 7 thn,1,Pria menikah/duda,Tidak ada,2,Properti,35,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,6,Pernah telat bayar,Bisnis,1449,100-499 DM,>= 7 thn,1,Pria cerai/pisah,Tidak ada,2,Mobil / lainnya,31,Bank,Milik sendiri,2,Terampil / pegawai,2,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,15,Kredit berjalan lancar,Pendidikan,392,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,23,Tidak ada,Sewa,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,18,Kredit berjalan lancar,Mobil baru,6260,< 100 DM,4-7 thn,3,Pria lajang,Tidak ada,3,Properti,28,Tidak ada,Sewa,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,36,Masalah / kredit di luar bank,Mobil baru,7855,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,2,Properti,25,Toko,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Buruk
+< 0 DM,12,Kredit berjalan lancar,TV / Radio,1680,500-999 DM,>= 7 thn,3,Pria menikah/duda,Tidak ada,1,Properti,35,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,48,Masalah / kredit di luar bank,TV / Radio,3578,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,1,Properti,47,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,42,Kredit berjalan lancar,TV / Radio,7174,Tidak ada / tidak tahu,4-7 thn,4,Wanita menikah/cerai,Tidak ada,3,Mobil / lainnya,30,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Buruk
+< 0 DM,10,Masalah / kredit di luar bank,Furniture,2132,Tidak ada / tidak tahu,< 1 thn,2,Wanita menikah/cerai,Ko-pemohon,3,Properti,27,Tidak ada,Sewa,2,Terampil / pegawai,1,Tidak ada,Bukan,Baik
+< 0 DM,33,Masalah / kredit di luar bank,Furniture,4281,500-999 DM,1-4 thn,1,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,23,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,12,Masalah / kredit di luar bank,Mobil baru,2366,500-999 DM,4-7 thn,3,Pria cerai/pisah,Tidak ada,3,Mobil / lainnya,36,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+< 0 DM,21,Kredit berjalan lancar,TV / Radio,1835,< 100 DM,1-4 thn,3,Wanita menikah/cerai,Tidak ada,2,Properti,25,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,24,Masalah / kredit di luar bank,Mobil bekas,3868,< 100 DM,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,41,Tidak ada,Sewa,2,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,Furniture,1768,< 100 DM,1-4 thn,3,Pria lajang,Tidak ada,2,Properti,24,Tidak ada,Sewa,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,10,Masalah / kredit di luar bank,Mobil baru,781,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,63,Tidak ada,Gratis,2,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,18,Kredit berjalan lancar,Furniture,1924,Tidak ada / tidak tahu,< 1 thn,4,Wanita menikah/cerai,Tidak ada,3,Properti,27,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,12,Masalah / kredit di luar bank,Mobil baru,2121,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Tabungan/Asuransi,30,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,TV / Radio,701,< 100 DM,1-4 thn,4,Pria menikah/duda,Tidak ada,2,Properti,40,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,Renovasi,639,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,30,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,12,Masalah / kredit di luar bank,Mobil bekas,1860,< 100 DM,Menganggur,4,Pria lajang,Tidak ada,2,Mobil / lainnya,34,Tidak ada,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Baik
+< 0 DM,12,Masalah / kredit di luar bank,Mobil baru,3499,< 100 DM,1-4 thn,3,Wanita menikah/cerai,Ko-pemohon,2,Properti,29,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,48,Kredit berjalan lancar,Mobil baru,8487,Tidak ada / tidak tahu,4-7 thn,1,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,24,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,36,Pernah telat bayar,Pendidikan,6887,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,3,Tabungan/Asuransi,29,Toko,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,15,Kredit berjalan lancar,Furniture,2708,< 100 DM,< 1 thn,2,Pria lajang,Tidak ada,3,Tabungan/Asuransi,27,Bank,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Kredit berjalan lancar,Furniture,1984,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,47,Bank,Gratis,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,60,Kredit berjalan lancar,TV / Radio,10144,100-499 DM,4-7 thn,2,Wanita menikah/cerai,Tidak ada,4,Properti,21,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,TV / Radio,1240,Tidak ada / tidak tahu,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,2,Properti,38,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,27,Pernah telat bayar,Mobil bekas,8613,>= 1000 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Mobil / lainnya,27,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,TV / Radio,766,500-999 DM,1-4 thn,4,Pria lajang,Tidak ada,3,Properti,66,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+0-199 DM,15,Masalah / kredit di luar bank,TV / Radio,2728,Tidak ada / tidak tahu,4-7 thn,4,Pria lajang,Penjamin,2,Properti,35,Bank,Milik sendiri,3,Terampil / pegawai,1,Ada,Ya,Baik
+>= 200 DM / gaji tetap,12,Kredit berjalan lancar,TV / Radio,1881,< 100 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,44,Tidak ada,Sewa,1,Tidak terampil (residen),1,Ada,Ya,Baik
+>= 200 DM / gaji tetap,6,Kredit berjalan lancar,Mobil baru,709,>= 1000 DM,< 1 thn,2,Pria menikah/duda,Tidak ada,2,Properti,27,Tidak ada,Milik sendiri,1,Pengangguran / tidak terampil (non-residen),1,Tidak ada,Bukan,Baik
+0-199 DM,36,Kredit berjalan lancar,TV / Radio,4795,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,1,Tidak ada / tidak tahu,30,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+< 0 DM,27,Kredit berjalan lancar,TV / Radio,3416,< 100 DM,1-4 thn,3,Pria lajang,Tidak ada,2,Mobil / lainnya,27,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Tidak ada,Ya,Baik
+< 0 DM,18,Kredit berjalan lancar,Furniture,2462,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Mobil / lainnya,22,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,21,Masalah / kredit di luar bank,Furniture,2288,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,23,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,48,Kredit di bank ini lancar,Bisnis,3566,100-499 DM,4-7 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,30,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,6,Masalah / kredit di luar bank,Mobil baru,860,< 100 DM,>= 7 thn,1,Wanita menikah/cerai,Tidak ada,4,Tidak ada / tidak tahu,39,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,Mobil baru,682,100-499 DM,4-7 thn,4,Wanita menikah/cerai,Tidak ada,3,Mobil / lainnya,51,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,36,Masalah / kredit di luar bank,Furniture,5371,< 100 DM,1-4 thn,3,Pria lajang,Penjamin,2,Tabungan/Asuransi,28,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Masalah / kredit di luar bank,TV / Radio,1582,>= 1000 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,46,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,6,Kredit berjalan lancar,TV / Radio,1346,100-499 DM,>= 7 thn,2,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,42,Bank,Gratis,1,Terampil / pegawai,2,Ada,Ya,Baik
+Tidak ada rekening,10,Kredit berjalan lancar,TV / Radio,1924,< 100 DM,1-4 thn,1,Pria lajang,Tidak ada,4,Tabungan/Asuransi,38,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Bukan,Baik
+>= 200 DM / gaji tetap,36,Kredit berjalan lancar,TV / Radio,5848,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,1,Mobil / lainnya,24,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,24,Masalah / kredit di luar bank,Mobil bekas,7758,>= 1000 DM,>= 7 thn,2,Wanita menikah/cerai,Tidak ada,4,Tidak ada / tidak tahu,29,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,24,Pernah telat bayar,Bisnis,6967,100-499 DM,4-7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,36,Tidak ada,Sewa,1,Manajer / profesional,1,Ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,Furniture,1282,< 100 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,20,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,9,Masalah / kredit di luar bank,Renovasi,1288,100-499 DM,>= 7 thn,3,Pria lajang,Penjamin,4,Properti,48,Tidak ada,Milik sendiri,2,Terampil / pegawai,2,Tidak ada,Bukan,Baik
+< 0 DM,12,Kredit di bank ini lancar,Pelatihan ulang,339,< 100 DM,>= 7 thn,4,Pria menikah/duda,Tidak ada,1,Mobil / lainnya,45,Bank,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,24,Kredit berjalan lancar,Mobil baru,3512,100-499 DM,4-7 thn,2,Pria lajang,Tidak ada,3,Mobil / lainnya,38,Bank,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,6,Masalah / kredit di luar bank,TV / Radio,1898,Tidak ada / tidak tahu,1-4 thn,1,Pria lajang,Tidak ada,2,Properti,34,Tidak ada,Milik sendiri,2,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Masalah / kredit di luar bank,TV / Radio,2872,100-499 DM,>= 7 thn,3,Pria lajang,Tidak ada,4,Properti,36,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Ada,Ya,Baik
+Tidak ada rekening,18,Masalah / kredit di luar bank,Mobil baru,1055,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,1,Tabungan/Asuransi,30,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,15,Kredit berjalan lancar,Peralatan rumah,1262,500-999 DM,4-7 thn,4,Pria lajang,Tidak ada,3,Tabungan/Asuransi,36,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,10,Kredit berjalan lancar,Mobil baru,7308,< 100 DM,Menganggur,2,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,70,Bank,Gratis,1,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,36,Kredit berjalan lancar,Mobil baru,909,500-999 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,36,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,6,Kredit berjalan lancar,Furniture,2978,500-999 DM,1-4 thn,1,Pria lajang,Tidak ada,2,Mobil / lainnya,32,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,18,Kredit berjalan lancar,Furniture,1131,< 100 DM,Menganggur,4,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,33,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,11,Kredit berjalan lancar,Furniture,1577,>= 1000 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,1,Properti,20,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,Furniture,3972,< 100 DM,4-7 thn,2,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,25,Tidak ada,Sewa,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,24,Masalah / kredit di luar bank,Bisnis,1935,< 100 DM,>= 7 thn,4,Pria cerai/pisah,Tidak ada,4,Properti,31,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Buruk
+< 0 DM,15,Tidak pernah kredit / selalu lancar,Mobil baru,950,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,3,Mobil / lainnya,33,Tidak ada,Sewa,2,Terampil / pegawai,2,Tidak ada,Ya,Buruk
+Tidak ada rekening,12,Kredit berjalan lancar,Furniture,763,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,1,Properti,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,24,Pernah telat bayar,Furniture,2064,< 100 DM,Menganggur,3,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,34,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Buruk
+0-199 DM,8,Kredit berjalan lancar,TV / Radio,1414,< 100 DM,1-4 thn,4,Pria lajang,Penjamin,2,Properti,33,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Bukan,Baik
+< 0 DM,21,Pernah telat bayar,Pendidikan,3414,< 100 DM,< 1 thn,2,Pria lajang,Tidak ada,1,Tabungan/Asuransi,26,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,30,Kredit di bank ini lancar,Mobil bekas,7485,Tidak ada / tidak tahu,Menganggur,4,Wanita menikah/cerai,Tidak ada,1,Properti,53,Bank,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Buruk
+< 0 DM,12,Kredit berjalan lancar,Furniture,2577,< 100 DM,1-4 thn,2,Pria cerai/pisah,Tidak ada,1,Mobil / lainnya,42,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,6,Masalah / kredit di luar bank,TV / Radio,338,500-999 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,52,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,TV / Radio,1963,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,31,Tidak ada,Sewa,2,Manajer / profesional,2,Ada,Ya,Baik
+< 0 DM,21,Masalah / kredit di luar bank,Mobil baru,571,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Properti,65,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,36,Pernah telat bayar,Bisnis,9572,< 100 DM,< 1 thn,1,Pria cerai/pisah,Tidak ada,1,Mobil / lainnya,28,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,36,Pernah telat bayar,Bisnis,4455,< 100 DM,1-4 thn,2,Pria cerai/pisah,Tidak ada,2,Properti,30,Toko,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Buruk
+< 0 DM,21,Kredit di bank ini lancar,Mobil baru,1647,Tidak ada / tidak tahu,1-4 thn,4,Pria lajang,Tidak ada,2,Tabungan/Asuransi,40,Tidak ada,Milik sendiri,2,Tidak terampil (residen),2,Tidak ada,Ya,Buruk
+Tidak ada rekening,24,Masalah / kredit di luar bank,Furniture,3777,>= 1000 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Properti,50,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,18,Masalah / kredit di luar bank,Mobil baru,884,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,36,Bank,Milik sendiri,1,Terampil / pegawai,2,Ada,Ya,Buruk
+Tidak ada rekening,15,Masalah / kredit di luar bank,TV / Radio,1360,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Tabungan/Asuransi,31,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,9,Kredit di bank ini lancar,Mobil bekas,5129,< 100 DM,>= 7 thn,2,Wanita menikah/cerai,Tidak ada,4,Tidak ada / tidak tahu,74,Bank,Gratis,1,Manajer / profesional,2,Ada,Ya,Buruk
+0-199 DM,16,Masalah / kredit di luar bank,Mobil baru,1175,< 100 DM,Menganggur,2,Pria lajang,Tidak ada,3,Mobil / lainnya,68,Tidak ada,Gratis,3,Pengangguran / tidak terampil (non-residen),1,Ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,TV / Radio,674,100-499 DM,4-7 thn,4,Pria menikah/duda,Tidak ada,1,Tabungan/Asuransi,20,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,18,Tidak pernah kredit / selalu lancar,Furniture,3244,< 100 DM,1-4 thn,1,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,33,Bank,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,Bisnis,4591,>= 1000 DM,1-4 thn,2,Pria lajang,Tidak ada,3,Tabungan/Asuransi,54,Tidak ada,Milik sendiri,3,Manajer / profesional,1,Ada,Ya,Buruk
+0-199 DM,48,Tidak pernah kredit / selalu lancar,Bisnis,3844,100-499 DM,4-7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,34,Tidak ada,Gratis,1,Tidak terampil (residen),2,Tidak ada,Ya,Buruk
+0-199 DM,27,Kredit berjalan lancar,Bisnis,3915,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,36,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Ada,Ya,Buruk
+Tidak ada rekening,6,Kredit berjalan lancar,TV / Radio,2108,< 100 DM,4-7 thn,2,Pria menikah/duda,Tidak ada,2,Properti,29,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,45,Kredit berjalan lancar,TV / Radio,3031,100-499 DM,1-4 thn,4,Pria lajang,Penjamin,4,Tabungan/Asuransi,21,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,9,Masalah / kredit di luar bank,Pendidikan,1501,< 100 DM,>= 7 thn,2,Wanita menikah/cerai,Tidak ada,3,Mobil / lainnya,34,Tidak ada,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,6,Masalah / kredit di luar bank,TV / Radio,1382,< 100 DM,1-4 thn,1,Wanita menikah/cerai,Tidak ada,1,Mobil / lainnya,28,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,Furniture,951,100-499 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,27,Bank,Sewa,4,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,24,Kredit berjalan lancar,Mobil bekas,2760,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,36,Bank,Gratis,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,18,Pernah telat bayar,Furniture,4297,< 100 DM,>= 7 thn,4,Pria cerai/pisah,Tidak ada,3,Tidak ada / tidak tahu,40,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,9,Masalah / kredit di luar bank,Pendidikan,936,500-999 DM,>= 7 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,52,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,Mobil baru,1168,< 100 DM,1-4 thn,4,Pria menikah/duda,Tidak ada,3,Properti,27,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,27,Pernah telat bayar,Bisnis,5117,< 100 DM,4-7 thn,3,Pria lajang,Tidak ada,4,Mobil / lainnya,26,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,Pelatihan ulang,902,< 100 DM,4-7 thn,4,Pria menikah/duda,Tidak ada,4,Tabungan/Asuransi,21,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,12,Masalah / kredit di luar bank,Mobil baru,1495,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,1,Properti,38,Tidak ada,Milik sendiri,2,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+< 0 DM,30,Masalah / kredit di luar bank,Mobil bekas,10623,< 100 DM,>= 7 thn,3,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,38,Tidak ada,Gratis,3,Manajer / profesional,2,Ada,Ya,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,Furniture,1935,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Properti,43,Tidak ada,Milik sendiri,3,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,12,Masalah / kredit di luar bank,Peralatan rumah,1424,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,3,Tabungan/Asuransi,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,24,Kredit berjalan lancar,Bisnis,6568,< 100 DM,1-4 thn,2,Pria menikah/duda,Tidak ada,2,Mobil / lainnya,21,Toko,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,Mobil bekas,1413,>= 1000 DM,4-7 thn,3,Pria lajang,Tidak ada,2,Tabungan/Asuransi,55,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Bukan,Baik
+Tidak ada rekening,9,Masalah / kredit di luar bank,TV / Radio,3074,Tidak ada / tidak tahu,1-4 thn,1,Pria lajang,Tidak ada,2,Properti,33,Tidak ada,Milik sendiri,2,Terampil / pegawai,2,Tidak ada,Ya,Baik
+Tidak ada rekening,36,Kredit berjalan lancar,TV / Radio,3835,Tidak ada / tidak tahu,>= 7 thn,2,Wanita menikah/cerai,Tidak ada,4,Properti,45,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Ada,Ya,Baik
+< 0 DM,27,Tidak pernah kredit / selalu lancar,Bisnis,5293,< 100 DM,Menganggur,2,Pria lajang,Tidak ada,4,Tabungan/Asuransi,50,Toko,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Buruk
+>= 200 DM / gaji tetap,30,Pernah telat bayar,Bisnis,1908,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Properti,66,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,36,Masalah / kredit di luar bank,TV / Radio,3342,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,51,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,6,Masalah / kredit di luar bank,Pelatihan ulang,932,Tidak ada / tidak tahu,4-7 thn,1,Wanita menikah/cerai,Tidak ada,3,Tabungan/Asuransi,39,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,18,Tidak pernah kredit / selalu lancar,Bisnis,3104,< 100 DM,4-7 thn,3,Pria lajang,Tidak ada,1,Tabungan/Asuransi,31,Bank,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+>= 200 DM / gaji tetap,36,Kredit berjalan lancar,TV / Radio,3913,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Properti,23,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,24,Kredit berjalan lancar,Furniture,3021,< 100 DM,1-4 thn,2,Pria cerai/pisah,Tidak ada,2,Properti,24,Tidak ada,Sewa,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,10,Kredit berjalan lancar,Mobil baru,1364,< 100 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,64,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,TV / Radio,625,< 100 DM,< 1 thn,4,Pria menikah/duda,Penjamin,1,Properti,26,Bank,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,Pendidikan,1200,Tidak ada / tidak tahu,1-4 thn,4,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,23,Bank,Sewa,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,TV / Radio,707,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Properti,30,Bank,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Pernah telat bayar,Bisnis,2978,Tidak ada / tidak tahu,1-4 thn,4,Pria lajang,Tidak ada,4,Properti,32,Tidak ada,Milik sendiri,2,Terampil / pegawai,2,Ada,Ya,Baik
+Tidak ada rekening,15,Kredit berjalan lancar,Mobil bekas,4657,< 100 DM,1-4 thn,3,Pria lajang,Tidak ada,2,Mobil / lainnya,30,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,36,Tidak pernah kredit / selalu lancar,Renovasi,2613,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,27,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,48,Kredit berjalan lancar,TV / Radio,10961,>= 1000 DM,4-7 thn,1,Pria lajang,Ko-pemohon,2,Tidak ada / tidak tahu,27,Bank,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Buruk
+< 0 DM,12,Kredit berjalan lancar,Furniture,7865,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,53,Tidak ada,Gratis,1,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,9,Kredit berjalan lancar,TV / Radio,1478,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,22,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,24,Kredit berjalan lancar,Furniture,3149,< 100 DM,< 1 thn,4,Pria lajang,Tidak ada,1,Tidak ada / tidak tahu,22,Bank,Gratis,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,36,Kredit berjalan lancar,TV / Radio,4210,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,9,Kredit berjalan lancar,Mobil baru,2507,500-999 DM,>= 7 thn,2,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,51,Tidak ada,Gratis,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,TV / Radio,2141,100-499 DM,4-7 thn,3,Pria lajang,Tidak ada,1,Tidak ada / tidak tahu,35,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,18,Kredit berjalan lancar,TV / Radio,866,< 100 DM,1-4 thn,4,Pria menikah/duda,Penjamin,2,Properti,25,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,4,Masalah / kredit di luar bank,TV / Radio,1544,< 100 DM,4-7 thn,2,Pria lajang,Tidak ada,1,Properti,42,Tidak ada,Milik sendiri,3,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+< 0 DM,24,Kredit berjalan lancar,TV / Radio,1823,< 100 DM,Menganggur,4,Pria lajang,Tidak ada,2,Mobil / lainnya,30,Toko,Milik sendiri,1,Manajer / profesional,2,Tidak ada,Ya,Buruk
+0-199 DM,6,Kredit berjalan lancar,Mobil baru,14555,Tidak ada / tidak tahu,Menganggur,1,Pria lajang,Tidak ada,2,Tabungan/Asuransi,23,Tidak ada,Milik sendiri,1,Pengangguran / tidak terampil (non-residen),1,Ada,Ya,Buruk
+0-199 DM,21,Kredit berjalan lancar,Bisnis,2767,100-499 DM,>= 7 thn,4,Pria cerai/pisah,Tidak ada,2,Mobil / lainnya,61,Bank,Sewa,2,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+Tidak ada rekening,12,Masalah / kredit di luar bank,TV / Radio,1291,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,35,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,30,Kredit berjalan lancar,TV / Radio,2522,< 100 DM,>= 7 thn,1,Pria lajang,Penjamin,3,Tabungan/Asuransi,39,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Tidak ada,Ya,Baik
+< 0 DM,24,Kredit berjalan lancar,Mobil baru,915,Tidak ada / tidak tahu,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,29,Bank,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,6,Kredit berjalan lancar,TV / Radio,1595,< 100 DM,4-7 thn,3,Pria lajang,Tidak ada,2,Tabungan/Asuransi,51,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Tidak ada,Ya,Baik
+< 0 DM,48,Tidak pernah kredit / selalu lancar,Mobil bekas,4605,< 100 DM,>= 7 thn,3,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,24,Tidak ada,Gratis,2,Terampil / pegawai,2,Tidak ada,Ya,Buruk
+Tidak ada rekening,12,Masalah / kredit di luar bank,Bisnis,1185,< 100 DM,1-4 thn,3,Wanita menikah/cerai,Tidak ada,2,Properti,27,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,12,Kredit di bank ini lancar,Pelatihan ulang,3447,500-999 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,3,Properti,35,Tidak ada,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,Bisnis,1258,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,1,Properti,25,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,TV / Radio,717,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Properti,52,Tidak ada,Milik sendiri,3,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,6,Tidak pernah kredit / selalu lancar,Mobil baru,1204,100-499 DM,1-4 thn,4,Pria lajang,Tidak ada,1,Tidak ada / tidak tahu,35,Bank,Sewa,1,Terampil / pegawai,1,Tidak ada,Bukan,Baik
+>= 200 DM / gaji tetap,24,Kredit berjalan lancar,Furniture,1925,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Properti,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Kredit berjalan lancar,TV / Radio,433,< 100 DM,Menganggur,3,Wanita menikah/cerai,Ko-pemohon,4,Properti,22,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,6,Masalah / kredit di luar bank,Mobil baru,666,>= 1000 DM,4-7 thn,3,Wanita menikah/cerai,Tidak ada,4,Properti,39,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Ada,Ya,Baik
+>= 200 DM / gaji tetap,12,Kredit berjalan lancar,Furniture,2251,< 100 DM,1-4 thn,1,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,46,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,30,Kredit berjalan lancar,Mobil baru,2150,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Penjamin,2,Tidak ada / tidak tahu,24,Bank,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,24,Pernah telat bayar,Furniture,4151,100-499 DM,1-4 thn,2,Pria lajang,Tidak ada,3,Tabungan/Asuransi,35,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,9,Kredit berjalan lancar,Furniture,2030,Tidak ada / tidak tahu,4-7 thn,2,Pria lajang,Tidak ada,1,Mobil / lainnya,24,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,60,Pernah telat bayar,TV / Radio,7418,Tidak ada / tidak tahu,1-4 thn,1,Pria lajang,Tidak ada,1,Properti,27,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Masalah / kredit di luar bank,TV / Radio,2684,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Properti,35,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,12,Kredit di bank ini lancar,TV / Radio,2149,< 100 DM,1-4 thn,4,Pria cerai/pisah,Tidak ada,1,Tidak ada / tidak tahu,29,Tidak ada,Gratis,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,15,Kredit berjalan lancar,Mobil bekas,3812,100-499 DM,< 1 thn,1,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,23,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,11,Masalah / kredit di luar bank,TV / Radio,1154,100-499 DM,Menganggur,4,Wanita menikah/cerai,Tidak ada,4,Properti,57,Tidak ada,Milik sendiri,3,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,Furniture,1657,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Properti,27,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,24,Kredit berjalan lancar,TV / Radio,1603,< 100 DM,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,55,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,18,Masalah / kredit di luar bank,Mobil baru,5302,< 100 DM,>= 7 thn,2,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,36,Tidak ada,Gratis,3,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,Pendidikan,2748,< 100 DM,>= 7 thn,2,Wanita menikah/cerai,Tidak ada,4,Tidak ada / tidak tahu,57,Bank,Gratis,3,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,10,Masalah / kredit di luar bank,Mobil baru,1231,< 100 DM,>= 7 thn,3,Pria lajang,Tidak ada,4,Properti,32,Tidak ada,Milik sendiri,2,Tidak terampil (residen),2,Tidak ada,Bukan,Baik
+0-199 DM,15,Kredit berjalan lancar,TV / Radio,802,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,3,Mobil / lainnya,37,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Tidak ada,Ya,Buruk
+Tidak ada rekening,36,Masalah / kredit di luar bank,Bisnis,6304,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Properti,36,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,TV / Radio,1533,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,3,Mobil / lainnya,38,Toko,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,14,Kredit berjalan lancar,Mobil baru,8978,< 100 DM,>= 7 thn,1,Pria cerai/pisah,Tidak ada,4,Tabungan/Asuransi,45,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Bukan,Buruk
+Tidak ada rekening,24,Kredit berjalan lancar,TV / Radio,999,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,25,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Kredit berjalan lancar,Mobil baru,2662,Tidak ada / tidak tahu,4-7 thn,4,Pria lajang,Tidak ada,3,Tabungan/Asuransi,32,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Bukan,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,Furniture,1402,500-999 DM,4-7 thn,3,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,37,Tidak ada,Sewa,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,48,Kredit di bank ini lancar,Mobil baru,12169,Tidak ada / tidak tahu,Menganggur,4,Pria lajang,Ko-pemohon,4,Tidak ada / tidak tahu,36,Tidak ada,Gratis,1,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,48,Kredit berjalan lancar,TV / Radio,3060,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,4,Properti,28,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,30,Kredit berjalan lancar,Renovasi,11998,< 100 DM,< 1 thn,1,Pria cerai/pisah,Tidak ada,1,Tidak ada / tidak tahu,34,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Ada,Ya,Buruk
+Tidak ada rekening,9,Kredit berjalan lancar,TV / Radio,2697,< 100 DM,1-4 thn,1,Pria lajang,Tidak ada,2,Properti,32,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Masalah / kredit di luar bank,TV / Radio,2404,< 100 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,26,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,Furniture,1262,Tidak ada / tidak tahu,>= 7 thn,2,Pria cerai/pisah,Tidak ada,4,Tabungan/Asuransi,49,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Ada,Ya,Baik
+Tidak ada rekening,6,Kredit berjalan lancar,Furniture,4611,< 100 DM,< 1 thn,1,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,32,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,24,Kredit berjalan lancar,TV / Radio,1901,100-499 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,29,Tidak ada,Sewa,1,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,15,Masalah / kredit di luar bank,Mobil bekas,3368,>= 1000 DM,>= 7 thn,3,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,23,Tidak ada,Sewa,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,Furniture,1574,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Properti,50,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,18,Kredit di bank ini lancar,TV / Radio,1445,Tidak ada / tidak tahu,4-7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,49,Bank,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,15,Masalah / kredit di luar bank,Furniture,1520,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,63,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,24,Masalah / kredit di luar bank,Mobil baru,3878,100-499 DM,< 1 thn,4,Pria cerai/pisah,Tidak ada,2,Mobil / lainnya,37,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,47,Kredit berjalan lancar,Mobil baru,10722,< 100 DM,< 1 thn,1,Wanita menikah/cerai,Tidak ada,1,Properti,35,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Ada,Ya,Baik
+< 0 DM,48,Kredit berjalan lancar,Mobil bekas,4788,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,3,Tabungan/Asuransi,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Tidak ada,Ya,Baik
+0-199 DM,48,Pernah telat bayar,Lainnya,7582,100-499 DM,Menganggur,2,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,31,Tidak ada,Gratis,1,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,TV / Radio,1092,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Penjamin,4,Properti,49,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,24,Pernah telat bayar,TV / Radio,1024,< 100 DM,< 1 thn,4,Pria menikah/duda,Tidak ada,4,Properti,48,Toko,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,12,Kredit berjalan lancar,Bisnis,1076,< 100 DM,1-4 thn,2,Pria menikah/duda,Tidak ada,2,Properti,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Bukan,Baik
+0-199 DM,36,Kredit berjalan lancar,Mobil bekas,9398,< 100 DM,< 1 thn,1,Pria menikah/duda,Tidak ada,4,Mobil / lainnya,28,Tidak ada,Sewa,1,Manajer / profesional,1,Ada,Ya,Buruk
+< 0 DM,24,Masalah / kredit di luar bank,Mobil bekas,6419,< 100 DM,>= 7 thn,2,Wanita menikah/cerai,Tidak ada,4,Tidak ada / tidak tahu,44,Tidak ada,Gratis,2,Manajer / profesional,2,Ada,Ya,Baik
+>= 200 DM / gaji tetap,42,Masalah / kredit di luar bank,Mobil bekas,4796,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,56,Tidak ada,Gratis,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,48,Masalah / kredit di luar bank,Bisnis,7629,Tidak ada / tidak tahu,>= 7 thn,4,Pria cerai/pisah,Tidak ada,2,Mobil / lainnya,46,Bank,Milik sendiri,2,Manajer / profesional,2,Tidak ada,Ya,Baik
+0-199 DM,48,Kredit berjalan lancar,Furniture,9960,< 100 DM,< 1 thn,1,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,12,Kredit berjalan lancar,Mobil bekas,4675,Tidak ada / tidak tahu,< 1 thn,1,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,20,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,10,Kredit berjalan lancar,Mobil baru,1287,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Ko-pemohon,2,Tabungan/Asuransi,45,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Bukan,Baik
+Tidak ada rekening,18,Kredit berjalan lancar,Furniture,2515,< 100 DM,1-4 thn,3,Pria lajang,Tidak ada,4,Properti,43,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,21,Masalah / kredit di luar bank,Furniture,2745,>= 1000 DM,4-7 thn,3,Pria lajang,Tidak ada,2,Mobil / lainnya,32,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,6,Kredit berjalan lancar,Mobil baru,672,< 100 DM,Menganggur,1,Wanita menikah/cerai,Tidak ada,4,Properti,54,Tidak ada,Milik sendiri,1,Pengangguran / tidak terampil (non-residen),1,Ada,Ya,Baik
+0-199 DM,36,Tidak pernah kredit / selalu lancar,TV / Radio,3804,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,1,Mobil / lainnya,42,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Buruk
+>= 200 DM / gaji tetap,24,Masalah / kredit di luar bank,Mobil baru,1344,Tidak ada / tidak tahu,4-7 thn,4,Pria lajang,Tidak ada,2,Properti,37,Bank,Milik sendiri,2,Tidak terampil (residen),2,Tidak ada,Ya,Buruk
+< 0 DM,10,Masalah / kredit di luar bank,Mobil baru,1038,< 100 DM,4-7 thn,4,Pria lajang,Ko-pemohon,3,Tabungan/Asuransi,49,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,48,Masalah / kredit di luar bank,Mobil baru,10127,500-999 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Tidak ada / tidak tahu,44,Bank,Gratis,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,6,Kredit berjalan lancar,Furniture,1543,>= 1000 DM,1-4 thn,4,Pria cerai/pisah,Tidak ada,2,Properti,33,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,30,Kredit berjalan lancar,Mobil bekas,4811,Tidak ada / tidak tahu,4-7 thn,2,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,24,Toko,Sewa,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,TV / Radio,727,100-499 DM,< 1 thn,4,Pria menikah/duda,Tidak ada,3,Tidak ada / tidak tahu,33,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Ada,Ya,Buruk
+0-199 DM,8,Kredit berjalan lancar,Furniture,1237,< 100 DM,1-4 thn,3,Wanita menikah/cerai,Tidak ada,4,Properti,24,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,9,Kredit berjalan lancar,Mobil baru,276,< 100 DM,1-4 thn,4,Pria menikah/duda,Tidak ada,4,Properti,22,Tidak ada,Sewa,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,48,Kredit berjalan lancar,Lainnya,5381,Tidak ada / tidak tahu,Menganggur,3,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,40,Bank,Gratis,1,Pengangguran / tidak terampil (non-residen),1,Ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,Furniture,5511,100-499 DM,1-4 thn,4,Pria lajang,Tidak ada,1,Mobil / lainnya,25,Toko,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,24,Kredit berjalan lancar,Furniture,3749,< 100 DM,< 1 thn,2,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,Mobil baru,685,< 100 DM,4-7 thn,2,Pria menikah/duda,Tidak ada,3,Mobil / lainnya,25,Bank,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+>= 200 DM / gaji tetap,4,Kredit berjalan lancar,Mobil baru,1494,Tidak ada / tidak tahu,< 1 thn,1,Pria lajang,Tidak ada,2,Properti,29,Tidak ada,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Bukan,Baik
+< 0 DM,36,Kredit di bank ini lancar,Furniture,2746,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,31,Bank,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,12,Kredit berjalan lancar,Furniture,708,< 100 DM,1-4 thn,2,Pria lajang,Penjamin,3,Tabungan/Asuransi,38,Tidak ada,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+0-199 DM,24,Kredit berjalan lancar,Furniture,4351,Tidak ada / tidak tahu,1-4 thn,1,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,48,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Ada,Ya,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,Pendidikan,701,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,32,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,15,Pernah telat bayar,Furniture,3643,< 100 DM,>= 7 thn,1,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,27,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,30,Masalah / kredit di luar bank,Mobil baru,4249,< 100 DM,Menganggur,4,Pria menikah/duda,Tidak ada,2,Mobil / lainnya,28,Tidak ada,Milik sendiri,2,Manajer / profesional,1,Tidak ada,Ya,Buruk
+< 0 DM,24,Kredit berjalan lancar,TV / Radio,1938,< 100 DM,< 1 thn,4,Pria cerai/pisah,Tidak ada,3,Tabungan/Asuransi,32,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,24,Kredit berjalan lancar,Mobil bekas,2910,< 100 DM,4-7 thn,2,Pria lajang,Tidak ada,1,Tidak ada / tidak tahu,34,Tidak ada,Gratis,1,Manajer / profesional,1,Ada,Ya,Baik
+< 0 DM,18,Kredit berjalan lancar,Furniture,2659,>= 1000 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,28,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Masalah / kredit di luar bank,Mobil baru,1028,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,3,Properti,36,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,8,Masalah / kredit di luar bank,Mobil baru,3398,< 100 DM,4-7 thn,1,Pria lajang,Tidak ada,4,Properti,39,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Bukan,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,Furniture,5801,Tidak ada / tidak tahu,>= 7 thn,2,Pria lajang,Tidak ada,4,Tabungan/Asuransi,49,Tidak ada,Sewa,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,Mobil baru,1525,>= 1000 DM,4-7 thn,4,Wanita menikah/cerai,Tidak ada,3,Mobil / lainnya,34,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Ada,Ya,Baik
+>= 200 DM / gaji tetap,36,Kredit berjalan lancar,TV / Radio,4473,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,31,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,6,Kredit berjalan lancar,TV / Radio,1068,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,28,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Tidak ada,Ya,Baik
+< 0 DM,24,Masalah / kredit di luar bank,Mobil bekas,6615,< 100 DM,Menganggur,2,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,75,Tidak ada,Gratis,2,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,18,Masalah / kredit di luar bank,Pendidikan,1864,100-499 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,2,Properti,30,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,60,Kredit berjalan lancar,Mobil baru,7408,100-499 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,24,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,48,Masalah / kredit di luar bank,Mobil bekas,11590,100-499 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,24,Bank,Sewa,2,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+< 0 DM,24,Tidak pernah kredit / selalu lancar,Furniture,4110,< 100 DM,>= 7 thn,3,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,23,Bank,Sewa,2,Terampil / pegawai,2,Tidak ada,Ya,Buruk
+< 0 DM,6,Masalah / kredit di luar bank,Furniture,3384,< 100 DM,1-4 thn,1,Pria cerai/pisah,Tidak ada,4,Properti,44,Tidak ada,Sewa,1,Manajer / profesional,1,Ada,Ya,Buruk
+0-199 DM,13,Kredit berjalan lancar,TV / Radio,2101,< 100 DM,< 1 thn,2,Wanita menikah/cerai,Penjamin,4,Tabungan/Asuransi,23,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,15,Kredit berjalan lancar,Peralatan rumah,1275,Tidak ada / tidak tahu,1-4 thn,4,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,24,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,24,Kredit berjalan lancar,Furniture,4169,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,28,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,10,Kredit berjalan lancar,Furniture,1521,< 100 DM,1-4 thn,4,Pria cerai/pisah,Tidak ada,2,Mobil / lainnya,31,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,24,Masalah / kredit di luar bank,Pendidikan,5743,< 100 DM,< 1 thn,2,Wanita menikah/cerai,Tidak ada,4,Tidak ada / tidak tahu,24,Tidak ada,Gratis,2,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,21,Kredit berjalan lancar,Furniture,3599,< 100 DM,4-7 thn,1,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,26,Tidak ada,Sewa,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,18,Kredit berjalan lancar,TV / Radio,3213,500-999 DM,< 1 thn,1,Pria menikah/duda,Tidak ada,3,Properti,25,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,18,Kredit berjalan lancar,Bisnis,4439,< 100 DM,>= 7 thn,1,Pria lajang,Ko-pemohon,1,Properti,33,Bank,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+>= 200 DM / gaji tetap,10,Kredit berjalan lancar,Mobil baru,3949,< 100 DM,< 1 thn,1,Pria lajang,Penjamin,1,Tabungan/Asuransi,37,Tidak ada,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+Tidak ada rekening,15,Masalah / kredit di luar bank,TV / Radio,1459,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,43,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,13,Masalah / kredit di luar bank,TV / Radio,882,< 100 DM,< 1 thn,4,Pria lajang,Penjamin,4,Properti,23,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,24,Kredit berjalan lancar,TV / Radio,3758,500-999 DM,Menganggur,1,Wanita menikah/cerai,Tidak ada,4,Tidak ada / tidak tahu,23,Tidak ada,Sewa,1,Pengangguran / tidak terampil (non-residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,6,Pernah telat bayar,Bisnis,1743,100-499 DM,1-4 thn,1,Pria lajang,Tidak ada,2,Properti,34,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,9,Masalah / kredit di luar bank,Pendidikan,1136,>= 1000 DM,>= 7 thn,4,Pria lajang,Tidak ada,3,Tidak ada / tidak tahu,32,Tidak ada,Gratis,2,Terampil / pegawai,2,Tidak ada,Ya,Buruk
+Tidak ada rekening,9,Kredit berjalan lancar,Peralatan rumah,1236,< 100 DM,< 1 thn,1,Wanita menikah/cerai,Tidak ada,4,Properti,23,Tidak ada,Sewa,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,9,Kredit berjalan lancar,Furniture,959,< 100 DM,1-4 thn,1,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,29,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Bukan,Buruk
+Tidak ada rekening,18,Masalah / kredit di luar bank,Mobil bekas,3229,Tidak ada / tidak tahu,Menganggur,2,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,38,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+< 0 DM,12,Tidak pernah kredit / selalu lancar,TV / Radio,6199,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Tabungan/Asuransi,28,Tidak ada,Sewa,2,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,10,Kredit berjalan lancar,Pendidikan,727,500-999 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,46,Tidak ada,Gratis,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,24,Kredit berjalan lancar,Mobil baru,1246,< 100 DM,< 1 thn,4,Pria lajang,Tidak ada,2,Properti,23,Toko,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+Tidak ada rekening,12,Masalah / kredit di luar bank,TV / Radio,2331,Tidak ada / tidak tahu,>= 7 thn,1,Pria lajang,Ko-pemohon,4,Properti,49,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,36,Pernah telat bayar,TV / Radio,4463,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,26,Tidak ada,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,12,Kredit berjalan lancar,TV / Radio,776,< 100 DM,1-4 thn,4,Pria menikah/duda,Tidak ada,2,Properti,28,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,30,Kredit berjalan lancar,Furniture,2406,< 100 DM,4-7 thn,4,Wanita menikah/cerai,Tidak ada,4,Properti,23,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,18,Kredit berjalan lancar,Pendidikan,1239,Tidak ada / tidak tahu,1-4 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,61,Tidak ada,Gratis,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,12,Kredit berjalan lancar,TV / Radio,3399,Tidak ada / tidak tahu,>= 7 thn,2,Pria lajang,Tidak ada,3,Mobil / lainnya,37,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,12,Pernah telat bayar,Mobil baru,2247,< 100 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,36,Toko,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,6,Kredit berjalan lancar,Furniture,1766,< 100 DM,1-4 thn,1,Pria menikah/duda,Tidak ada,2,Tabungan/Asuransi,21,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,18,Kredit berjalan lancar,Furniture,2473,< 100 DM,Menganggur,4,Pria lajang,Tidak ada,1,Mobil / lainnya,25,Tidak ada,Milik sendiri,1,Pengangguran / tidak terampil (non-residen),1,Tidak ada,Ya,Buruk
+Tidak ada rekening,12,Kredit berjalan lancar,Bisnis,1542,< 100 DM,4-7 thn,2,Pria lajang,Tidak ada,4,Mobil / lainnya,36,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,18,Masalah / kredit di luar bank,Mobil bekas,3850,< 100 DM,4-7 thn,3,Pria lajang,Tidak ada,1,Mobil / lainnya,27,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,18,Kredit berjalan lancar,Furniture,3650,< 100 DM,< 1 thn,1,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,22,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,36,Kredit berjalan lancar,Furniture,3446,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,42,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Tidak ada,Ya,Buruk
+0-199 DM,18,Kredit berjalan lancar,Furniture,3001,< 100 DM,4-7 thn,2,Wanita menikah/cerai,Tidak ada,4,Properti,40,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,36,Kredit berjalan lancar,Mobil baru,3079,Tidak ada / tidak tahu,1-4 thn,4,Pria lajang,Tidak ada,4,Properti,36,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Masalah / kredit di luar bank,TV / Radio,6070,< 100 DM,>= 7 thn,3,Pria lajang,Tidak ada,4,Mobil / lainnya,33,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,10,Masalah / kredit di luar bank,Furniture,2146,< 100 DM,< 1 thn,1,Wanita menikah/cerai,Tidak ada,3,Properti,23,Tidak ada,Sewa,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,60,Masalah / kredit di luar bank,Mobil baru,13756,Tidak ada / tidak tahu,>= 7 thn,2,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,63,Bank,Gratis,1,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,60,Kredit di bank ini lancar,Lainnya,14782,100-499 DM,>= 7 thn,3,Wanita menikah/cerai,Tidak ada,4,Tidak ada / tidak tahu,60,Bank,Gratis,2,Manajer / profesional,1,Ada,Ya,Buruk
+< 0 DM,48,Kredit di bank ini lancar,Bisnis,7685,< 100 DM,4-7 thn,2,Wanita menikah/cerai,Penjamin,4,Mobil / lainnya,37,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,18,Pernah telat bayar,TV / Radio,2320,< 100 DM,Menganggur,2,Pria menikah/duda,Tidak ada,3,Properti,34,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,7,Pernah telat bayar,TV / Radio,846,Tidak ada / tidak tahu,>= 7 thn,3,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,36,Tidak ada,Gratis,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,36,Kredit berjalan lancar,Mobil baru,14318,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,2,Tidak ada / tidak tahu,57,Tidak ada,Gratis,1,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,6,Masalah / kredit di luar bank,Mobil baru,362,100-499 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,52,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,20,Kredit berjalan lancar,Furniture,2212,Tidak ada / tidak tahu,4-7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,39,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,18,Kredit berjalan lancar,Mobil bekas,12976,< 100 DM,Menganggur,3,Wanita menikah/cerai,Tidak ada,4,Tidak ada / tidak tahu,38,Tidak ada,Gratis,1,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,22,Kredit berjalan lancar,Mobil baru,1283,Tidak ada / tidak tahu,4-7 thn,4,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,25,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,12,Kredit berjalan lancar,Mobil baru,1330,< 100 DM,< 1 thn,4,Pria lajang,Tidak ada,1,Properti,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,30,Pernah telat bayar,Bisnis,4272,100-499 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Tabungan/Asuransi,26,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Masalah / kredit di luar bank,TV / Radio,2238,< 100 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,1,Mobil / lainnya,25,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Kredit berjalan lancar,TV / Radio,1126,Tidak ada / tidak tahu,< 1 thn,4,Wanita menikah/cerai,Tidak ada,2,Properti,21,Tidak ada,Sewa,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,18,Masalah / kredit di luar bank,Furniture,7374,< 100 DM,Menganggur,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,40,Toko,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,15,Masalah / kredit di luar bank,Bisnis,2326,500-999 DM,1-4 thn,2,Pria lajang,Tidak ada,4,Mobil / lainnya,27,Bank,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,9,Kredit berjalan lancar,Bisnis,1449,< 100 DM,4-7 thn,3,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,27,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Kredit berjalan lancar,Mobil baru,1820,< 100 DM,1-4 thn,2,Pria menikah/duda,Tidak ada,2,Tabungan/Asuransi,30,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,Furniture,983,>= 1000 DM,< 1 thn,1,Wanita menikah/cerai,Tidak ada,4,Properti,19,Tidak ada,Sewa,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,36,Kredit berjalan lancar,Mobil baru,3249,< 100 DM,4-7 thn,2,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,39,Bank,Gratis,1,Manajer / profesional,2,Ada,Ya,Baik
+< 0 DM,6,Masalah / kredit di luar bank,TV / Radio,1957,< 100 DM,4-7 thn,1,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,31,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,9,Masalah / kredit di luar bank,Furniture,2406,< 100 DM,Menganggur,2,Pria lajang,Tidak ada,3,Mobil / lainnya,31,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Tidak ada,Ya,Baik
+0-199 DM,39,Pernah telat bayar,Pendidikan,11760,100-499 DM,4-7 thn,2,Pria lajang,Tidak ada,3,Tidak ada / tidak tahu,32,Tidak ada,Sewa,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,Furniture,2578,< 100 DM,Menganggur,3,Wanita menikah/cerai,Tidak ada,4,Tidak ada / tidak tahu,55,Tidak ada,Gratis,1,Manajer / profesional,1,Tidak ada,Ya,Baik
+< 0 DM,36,Masalah / kredit di luar bank,Furniture,2348,< 100 DM,1-4 thn,3,Pria menikah/duda,Tidak ada,2,Tabungan/Asuransi,46,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,Mobil baru,1223,< 100 DM,>= 7 thn,1,Pria cerai/pisah,Tidak ada,1,Properti,46,Tidak ada,Sewa,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,24,Masalah / kredit di luar bank,TV / Radio,1516,>= 1000 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,1,Properti,43,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Kredit berjalan lancar,TV / Radio,1473,< 100 DM,< 1 thn,3,Pria menikah/duda,Tidak ada,4,Properti,39,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,18,Masalah / kredit di luar bank,Bisnis,1887,Tidak ada / tidak tahu,1-4 thn,4,Pria menikah/duda,Tidak ada,4,Properti,28,Bank,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Pernah telat bayar,Bisnis,8648,< 100 DM,< 1 thn,2,Pria lajang,Tidak ada,2,Mobil / lainnya,27,Bank,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,14,Pernah telat bayar,Mobil baru,802,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,27,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,18,Pernah telat bayar,Mobil baru,2899,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,43,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Tidak ada,Ya,Baik
+0-199 DM,24,Kredit berjalan lancar,TV / Radio,2039,< 100 DM,< 1 thn,1,Pria menikah/duda,Tidak ada,1,Tabungan/Asuransi,22,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,24,Masalah / kredit di luar bank,Mobil bekas,2197,Tidak ada / tidak tahu,4-7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,43,Tidak ada,Milik sendiri,2,Terampil / pegawai,2,Ada,Ya,Baik
+< 0 DM,15,Kredit berjalan lancar,TV / Radio,1053,< 100 DM,< 1 thn,4,Pria menikah/duda,Tidak ada,2,Properti,27,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Bukan,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,TV / Radio,3235,500-999 DM,>= 7 thn,3,Pria cerai/pisah,Tidak ada,2,Mobil / lainnya,26,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+>= 200 DM / gaji tetap,12,Masalah / kredit di luar bank,Mobil baru,939,500-999 DM,4-7 thn,4,Pria menikah/duda,Tidak ada,2,Properti,28,Tidak ada,Milik sendiri,3,Terampil / pegawai,1,Ada,Ya,Buruk
+0-199 DM,24,Kredit berjalan lancar,TV / Radio,1967,< 100 DM,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,20,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,33,Masalah / kredit di luar bank,Mobil bekas,7253,< 100 DM,4-7 thn,3,Pria lajang,Tidak ada,2,Mobil / lainnya,35,Tidak ada,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,Bisnis,2292,< 100 DM,Menganggur,4,Pria lajang,Tidak ada,2,Mobil / lainnya,42,Toko,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,10,Kredit berjalan lancar,Mobil baru,1597,500-999 DM,1-4 thn,3,Pria lajang,Tidak ada,2,Tidak ada / tidak tahu,40,Tidak ada,Sewa,1,Tidak terampil (residen),2,Tidak ada,Bukan,Baik
+< 0 DM,24,Kredit berjalan lancar,Mobil baru,1381,Tidak ada / tidak tahu,1-4 thn,4,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,35,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,36,Masalah / kredit di luar bank,Mobil bekas,5842,< 100 DM,>= 7 thn,2,Pria lajang,Tidak ada,2,Tabungan/Asuransi,35,Tidak ada,Milik sendiri,2,Terampil / pegawai,2,Ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,Mobil baru,2579,< 100 DM,< 1 thn,4,Pria lajang,Tidak ada,1,Properti,33,Tidak ada,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Ya,Buruk
+< 0 DM,18,Pernah telat bayar,Pendidikan,8471,Tidak ada / tidak tahu,1-4 thn,1,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,23,Tidak ada,Sewa,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,21,Kredit berjalan lancar,Mobil baru,2782,500-999 DM,4-7 thn,1,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,31,Bank,Milik sendiri,1,Manajer / profesional,1,Tidak ada,Ya,Baik
+0-199 DM,18,Kredit berjalan lancar,Mobil baru,1042,Tidak ada / tidak tahu,1-4 thn,4,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,33,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,15,Kredit berjalan lancar,Mobil baru,3186,>= 1000 DM,4-7 thn,2,Wanita menikah/cerai,Tidak ada,3,Mobil / lainnya,20,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,Mobil bekas,2028,Tidak ada / tidak tahu,1-4 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,30,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,12,Masalah / kredit di luar bank,Mobil baru,958,< 100 DM,4-7 thn,2,Pria lajang,Tidak ada,3,Properti,47,Tidak ada,Milik sendiri,2,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+Tidak ada rekening,21,Pernah telat bayar,Furniture,1591,100-499 DM,4-7 thn,4,Pria lajang,Tidak ada,3,Properti,34,Tidak ada,Milik sendiri,2,Manajer / profesional,1,Tidak ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,Furniture,2762,Tidak ada / tidak tahu,>= 7 thn,1,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,25,Bank,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Buruk
+0-199 DM,18,Kredit berjalan lancar,Mobil bekas,2779,< 100 DM,1-4 thn,1,Pria menikah/duda,Tidak ada,3,Mobil / lainnya,21,Tidak ada,Sewa,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,28,Masalah / kredit di luar bank,TV / Radio,2743,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,29,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Masalah / kredit di luar bank,TV / Radio,1149,>= 1000 DM,1-4 thn,4,Pria lajang,Tidak ada,3,Properti,46,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,9,Kredit berjalan lancar,Furniture,1313,< 100 DM,>= 7 thn,1,Pria lajang,Tidak ada,4,Mobil / lainnya,20,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,18,Masalah / kredit di luar bank,Renovasi,1190,< 100 DM,Menganggur,2,Wanita menikah/cerai,Tidak ada,4,Tidak ada / tidak tahu,55,Tidak ada,Gratis,3,Pengangguran / tidak terampil (non-residen),2,Tidak ada,Ya,Buruk
+Tidak ada rekening,5,Kredit berjalan lancar,Bisnis,3448,< 100 DM,4-7 thn,1,Pria lajang,Tidak ada,4,Properti,74,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,24,Kredit berjalan lancar,Lainnya,11328,< 100 DM,1-4 thn,2,Pria lajang,Ko-pemohon,3,Mobil / lainnya,29,Bank,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Buruk
+< 0 DM,6,Masalah / kredit di luar bank,Furniture,1872,< 100 DM,Menganggur,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,36,Tidak ada,Gratis,3,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,24,Masalah / kredit di luar bank,Renovasi,2058,< 100 DM,1-4 thn,4,Pria cerai/pisah,Tidak ada,2,Properti,33,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,9,Kredit berjalan lancar,Furniture,2136,< 100 DM,1-4 thn,3,Pria lajang,Tidak ada,2,Properti,25,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,TV / Radio,1484,Tidak ada / tidak tahu,1-4 thn,2,Pria menikah/duda,Tidak ada,1,Properti,25,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,6,Kredit berjalan lancar,Renovasi,660,500-999 DM,4-7 thn,2,Pria menikah/duda,Tidak ada,4,Properti,23,Tidak ada,Sewa,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Masalah / kredit di luar bank,Mobil baru,1287,>= 1000 DM,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,4,Properti,37,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,42,Masalah / kredit di luar bank,Renovasi,3394,< 100 DM,Menganggur,4,Pria lajang,Ko-pemohon,4,Mobil / lainnya,65,Tidak ada,Milik sendiri,2,Pengangguran / tidak terampil (non-residen),1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,12,Kredit di bank ini lancar,Bisnis,609,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,1,Properti,26,Tidak ada,Milik sendiri,1,Pengangguran / tidak terampil (non-residen),1,Tidak ada,Ya,Buruk
+Tidak ada rekening,12,Kredit berjalan lancar,Mobil baru,1884,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,39,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,Furniture,1620,< 100 DM,1-4 thn,2,Wanita menikah/cerai,Ko-pemohon,3,Tabungan/Asuransi,30,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,20,Pernah telat bayar,Lainnya,2629,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,3,Mobil / lainnya,29,Bank,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,Pendidikan,719,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,41,Bank,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Ya,Buruk
+0-199 DM,48,Masalah / kredit di luar bank,Furniture,5096,< 100 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,3,Mobil / lainnya,30,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,9,Masalah / kredit di luar bank,Pendidikan,1244,Tidak ada / tidak tahu,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,41,Tidak ada,Sewa,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,36,Kredit berjalan lancar,Mobil baru,1842,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,34,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Buruk
+0-199 DM,7,Kredit berjalan lancar,TV / Radio,2576,< 100 DM,1-4 thn,2,Pria lajang,Penjamin,2,Properti,35,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,12,Kredit berjalan lancar,Furniture,1424,Tidak ada / tidak tahu,>= 7 thn,3,Wanita menikah/cerai,Tidak ada,4,Properti,55,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,15,Pernah telat bayar,Renovasi,1512,>= 1000 DM,1-4 thn,3,Pria menikah/duda,Tidak ada,3,Tabungan/Asuransi,61,Toko,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,36,Masalah / kredit di luar bank,Mobil bekas,11054,Tidak ada / tidak tahu,1-4 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,30,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,6,Kredit berjalan lancar,TV / Radio,518,< 100 DM,1-4 thn,3,Wanita menikah/cerai,Tidak ada,1,Properti,29,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,12,Tidak pernah kredit / selalu lancar,Furniture,2759,< 100 DM,>= 7 thn,2,Pria lajang,Tidak ada,4,Tabungan/Asuransi,34,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,Mobil bekas,2670,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,35,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+< 0 DM,24,Kredit berjalan lancar,Mobil baru,4817,< 100 DM,4-7 thn,2,Pria lajang,Ko-pemohon,3,Tabungan/Asuransi,31,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,24,Kredit berjalan lancar,Mobil bekas,2679,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,1,Tidak ada / tidak tahu,29,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+< 0 DM,11,Masalah / kredit di luar bank,Mobil baru,3905,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Properti,36,Tidak ada,Sewa,2,Terampil / pegawai,2,Tidak ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,Mobil bekas,3386,< 100 DM,>= 7 thn,3,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,35,Tidak ada,Gratis,1,Terampil / pegawai,1,Ada,Ya,Buruk
+< 0 DM,6,Kredit berjalan lancar,Peralatan rumah,343,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,1,Properti,27,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Kredit berjalan lancar,TV / Radio,4594,< 100 DM,< 1 thn,3,Pria lajang,Tidak ada,2,Mobil / lainnya,32,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,36,Kredit berjalan lancar,Furniture,3620,< 100 DM,1-4 thn,1,Pria lajang,Penjamin,2,Tabungan/Asuransi,37,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Tidak ada,Ya,Baik
+< 0 DM,15,Kredit berjalan lancar,Mobil baru,1721,< 100 DM,< 1 thn,2,Pria lajang,Tidak ada,3,Properti,36,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,Furniture,3017,< 100 DM,< 1 thn,3,Wanita menikah/cerai,Tidak ada,1,Properti,34,Tidak ada,Sewa,1,Manajer / profesional,1,Tidak ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,Pelatihan ulang,754,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,38,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Kredit berjalan lancar,Bisnis,1950,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,1,Mobil / lainnya,34,Toko,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,24,Kredit berjalan lancar,Mobil bekas,2924,< 100 DM,1-4 thn,3,Pria lajang,Penjamin,4,Tidak ada / tidak tahu,63,Bank,Milik sendiri,1,Terampil / pegawai,2,Ada,Ya,Baik
+< 0 DM,24,Pernah telat bayar,TV / Radio,1659,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,29,Tidak ada,Sewa,1,Tidak terampil (residen),1,Ada,Ya,Buruk
+Tidak ada rekening,48,Pernah telat bayar,TV / Radio,7238,Tidak ada / tidak tahu,>= 7 thn,3,Pria lajang,Tidak ada,3,Mobil / lainnya,32,Bank,Milik sendiri,2,Terampil / pegawai,2,Tidak ada,Ya,Baik
+Tidak ada rekening,33,Pernah telat bayar,Bisnis,2764,< 100 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,26,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,24,Pernah telat bayar,Mobil bekas,4679,< 100 DM,4-7 thn,3,Pria lajang,Tidak ada,3,Mobil / lainnya,35,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Ada,Ya,Baik
+0-199 DM,24,Kredit berjalan lancar,TV / Radio,3092,100-499 DM,< 1 thn,3,Pria menikah/duda,Tidak ada,2,Mobil / lainnya,22,Tidak ada,Sewa,1,Terampil / pegawai,1,Ada,Ya,Buruk
+< 0 DM,6,Kredit berjalan lancar,Pendidikan,448,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,23,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,9,Kredit berjalan lancar,Mobil baru,654,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,3,Mobil / lainnya,28,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+Tidak ada rekening,6,Kredit berjalan lancar,Pelatihan ulang,1238,Tidak ada / tidak tahu,Menganggur,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,36,Tidak ada,Milik sendiri,1,Manajer / profesional,2,Ada,Ya,Baik
+0-199 DM,18,Masalah / kredit di luar bank,TV / Radio,1245,< 100 DM,1-4 thn,4,Pria menikah/duda,Tidak ada,2,Mobil / lainnya,33,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,18,Tidak pernah kredit / selalu lancar,Furniture,3114,< 100 DM,< 1 thn,1,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,26,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,39,Kredit berjalan lancar,Mobil bekas,2569,500-999 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,24,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,24,Kredit berjalan lancar,TV / Radio,5152,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,25,Bank,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,Bisnis,1037,100-499 DM,4-7 thn,3,Pria lajang,Tidak ada,4,Properti,39,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,15,Masalah / kredit di luar bank,Furniture,1478,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,44,Tidak ada,Milik sendiri,2,Terampil / pegawai,2,Ada,Ya,Baik
+0-199 DM,12,Masalah / kredit di luar bank,TV / Radio,3573,< 100 DM,1-4 thn,1,Wanita menikah/cerai,Tidak ada,1,Properti,23,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,24,Kredit berjalan lancar,Mobil baru,1201,< 100 DM,< 1 thn,4,Pria lajang,Tidak ada,1,Tabungan/Asuransi,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,30,Kredit berjalan lancar,Furniture,3622,>= 1000 DM,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,57,Tidak ada,Sewa,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,15,Pernah telat bayar,Furniture,960,>= 1000 DM,4-7 thn,3,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,30,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,Mobil baru,1163,500-999 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Properti,44,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,6,Pernah telat bayar,Mobil baru,1209,< 100 DM,Menganggur,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,47,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,12,Kredit berjalan lancar,TV / Radio,3077,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,4,Mobil / lainnya,52,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,Mobil baru,3757,< 100 DM,>= 7 thn,4,Wanita menikah/cerai,Ko-pemohon,4,Tidak ada / tidak tahu,62,Tidak ada,Gratis,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,10,Kredit berjalan lancar,Mobil baru,1418,100-499 DM,1-4 thn,3,Pria lajang,Tidak ada,2,Properti,35,Tidak ada,Sewa,1,Tidak terampil (residen),1,Tidak ada,Bukan,Baik
+Tidak ada rekening,6,Kredit berjalan lancar,Mobil baru,3518,< 100 DM,1-4 thn,2,Pria lajang,Penjamin,3,Tabungan/Asuransi,26,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,TV / Radio,1934,< 100 DM,>= 7 thn,2,Pria lajang,Tidak ada,2,Tidak ada / tidak tahu,26,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,27,Tidak pernah kredit / selalu lancar,Bisnis,8318,< 100 DM,>= 7 thn,2,Wanita menikah/cerai,Tidak ada,4,Tidak ada / tidak tahu,42,Tidak ada,Gratis,2,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,6,Masalah / kredit di luar bank,TV / Radio,1237,100-499 DM,1-4 thn,1,Wanita menikah/cerai,Tidak ada,1,Tabungan/Asuransi,27,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,6,Kredit berjalan lancar,TV / Radio,368,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,38,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,12,Masalah / kredit di luar bank,Mobil baru,2122,< 100 DM,1-4 thn,3,Pria lajang,Tidak ada,2,Properti,39,Tidak ada,Sewa,2,Tidak terampil (residen),2,Tidak ada,Bukan,Baik
+< 0 DM,24,Kredit berjalan lancar,Furniture,2996,Tidak ada / tidak tahu,1-4 thn,2,Pria menikah/duda,Tidak ada,4,Mobil / lainnya,20,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,36,Kredit berjalan lancar,Furniture,9034,100-499 DM,< 1 thn,4,Pria lajang,Ko-pemohon,1,Tidak ada / tidak tahu,29,Tidak ada,Sewa,1,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,24,Masalah / kredit di luar bank,Furniture,1585,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,3,Tabungan/Asuransi,40,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,18,Kredit berjalan lancar,TV / Radio,1301,< 100 DM,>= 7 thn,4,Pria menikah/duda,Penjamin,2,Properti,32,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,6,Masalah / kredit di luar bank,Mobil baru,1323,100-499 DM,>= 7 thn,2,Pria cerai/pisah,Tidak ada,4,Mobil / lainnya,28,Tidak ada,Milik sendiri,2,Terampil / pegawai,2,Ada,Ya,Baik
+< 0 DM,24,Kredit berjalan lancar,Mobil baru,3123,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,1,Tabungan/Asuransi,27,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,36,Kredit berjalan lancar,Mobil bekas,5493,< 100 DM,>= 7 thn,2,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,42,Tidak ada,Gratis,1,Terampil / pegawai,2,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,9,Kredit berjalan lancar,TV / Radio,1126,100-499 DM,>= 7 thn,2,Pria cerai/pisah,Tidak ada,4,Properti,49,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,24,Masalah / kredit di luar bank,TV / Radio,1216,100-499 DM,< 1 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,38,Bank,Milik sendiri,2,Terampil / pegawai,2,Tidak ada,Ya,Buruk
+< 0 DM,24,Kredit berjalan lancar,Mobil baru,1207,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,24,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,10,Kredit berjalan lancar,Mobil baru,1309,Tidak ada / tidak tahu,1-4 thn,4,Pria lajang,Penjamin,4,Tabungan/Asuransi,27,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+>= 200 DM / gaji tetap,15,Masalah / kredit di luar bank,Mobil bekas,2360,500-999 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Mobil / lainnya,36,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,15,Kredit di bank ini lancar,Mobil baru,6850,100-499 DM,Menganggur,1,Pria lajang,Tidak ada,2,Tabungan/Asuransi,34,Tidak ada,Milik sendiri,1,Manajer / profesional,2,Ada,Ya,Buruk
+Tidak ada rekening,24,Kredit berjalan lancar,TV / Radio,1413,< 100 DM,1-4 thn,4,Pria menikah/duda,Tidak ada,2,Tabungan/Asuransi,28,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,39,Kredit berjalan lancar,Mobil bekas,8588,100-499 DM,>= 7 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,45,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,Mobil baru,759,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,2,Properti,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,36,Kredit berjalan lancar,Mobil bekas,4686,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Tidak ada / tidak tahu,32,Tidak ada,Gratis,1,Manajer / profesional,1,Ada,Ya,Baik
+>= 200 DM / gaji tetap,15,Kredit berjalan lancar,Bisnis,2687,< 100 DM,4-7 thn,2,Pria lajang,Tidak ada,4,Tabungan/Asuransi,26,Tidak ada,Sewa,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,12,Pernah telat bayar,TV / Radio,585,< 100 DM,1-4 thn,4,Pria menikah/duda,Ko-pemohon,4,Properti,20,Tidak ada,Sewa,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,Mobil baru,2255,Tidak ada / tidak tahu,< 1 thn,4,Pria lajang,Tidak ada,1,Tabungan/Asuransi,54,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,6,Masalah / kredit di luar bank,Mobil baru,609,< 100 DM,4-7 thn,4,Wanita menikah/cerai,Tidak ada,3,Tabungan/Asuransi,37,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Bukan,Baik
+< 0 DM,6,Masalah / kredit di luar bank,Mobil baru,1361,< 100 DM,< 1 thn,2,Pria lajang,Tidak ada,4,Properti,40,Tidak ada,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Bukan,Baik
+Tidak ada rekening,36,Masalah / kredit di luar bank,Furniture,7127,< 100 DM,< 1 thn,2,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,23,Tidak ada,Sewa,2,Terampil / pegawai,1,Ada,Ya,Buruk
+< 0 DM,6,Kredit berjalan lancar,Mobil baru,1203,100-499 DM,>= 7 thn,3,Pria lajang,Tidak ada,2,Tabungan/Asuransi,43,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,6,Masalah / kredit di luar bank,TV / Radio,700,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,36,Tidak ada,Gratis,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Masalah / kredit di luar bank,Renovasi,5507,< 100 DM,>= 7 thn,3,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,44,Tidak ada,Gratis,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,18,Kredit berjalan lancar,TV / Radio,3190,< 100 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,2,Properti,24,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,48,Tidak pernah kredit / selalu lancar,Furniture,7119,< 100 DM,1-4 thn,3,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,53,Tidak ada,Gratis,2,Terampil / pegawai,2,Tidak ada,Ya,Buruk
+Tidak ada rekening,24,Kredit berjalan lancar,Mobil bekas,3488,100-499 DM,4-7 thn,3,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,23,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,18,Kredit berjalan lancar,TV / Radio,1113,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Penjamin,4,Properti,26,Tidak ada,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+0-199 DM,26,Kredit berjalan lancar,Mobil bekas,7966,< 100 DM,< 1 thn,2,Pria lajang,Tidak ada,3,Mobil / lainnya,30,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,15,Masalah / kredit di luar bank,Pendidikan,1532,100-499 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,3,Mobil / lainnya,31,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,4,Masalah / kredit di luar bank,TV / Radio,1503,< 100 DM,4-7 thn,2,Pria lajang,Tidak ada,1,Properti,42,Tidak ada,Milik sendiri,2,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+< 0 DM,36,Kredit berjalan lancar,TV / Radio,2302,< 100 DM,1-4 thn,4,Pria cerai/pisah,Tidak ada,4,Mobil / lainnya,31,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,6,Kredit berjalan lancar,Mobil baru,662,< 100 DM,< 1 thn,3,Pria lajang,Tidak ada,4,Properti,41,Tidak ada,Milik sendiri,1,Tidak terampil (residen),2,Ada,Ya,Baik
+0-199 DM,36,Kredit berjalan lancar,Pendidikan,2273,< 100 DM,4-7 thn,3,Pria lajang,Tidak ada,1,Mobil / lainnya,32,Tidak ada,Milik sendiri,2,Terampil / pegawai,2,Tidak ada,Ya,Baik
+0-199 DM,15,Kredit berjalan lancar,Mobil baru,2631,100-499 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,28,Tidak ada,Sewa,2,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,12,Pernah telat bayar,Mobil bekas,1503,< 100 DM,1-4 thn,4,Pria menikah/duda,Tidak ada,4,Properti,41,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,TV / Radio,1311,100-499 DM,4-7 thn,4,Pria menikah/duda,Tidak ada,3,Tabungan/Asuransi,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,TV / Radio,3105,Tidak ada / tidak tahu,< 1 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,25,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,21,Masalah / kredit di luar bank,Pendidikan,2319,< 100 DM,< 1 thn,2,Pria cerai/pisah,Tidak ada,1,Mobil / lainnya,33,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,6,Kredit berjalan lancar,Mobil baru,1374,Tidak ada / tidak tahu,Menganggur,4,Wanita menikah/cerai,Tidak ada,3,Tabungan/Asuransi,75,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,18,Masalah / kredit di luar bank,Furniture,3612,< 100 DM,>= 7 thn,3,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,37,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,48,Kredit berjalan lancar,Mobil baru,7763,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,42,Bank,Gratis,1,Manajer / profesional,1,Tidak ada,Ya,Buruk
+>= 200 DM / gaji tetap,18,Kredit berjalan lancar,Furniture,3049,< 100 DM,< 1 thn,1,Wanita menikah/cerai,Tidak ada,1,Tabungan/Asuransi,45,Toko,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,TV / Radio,1534,< 100 DM,< 1 thn,1,Pria menikah/duda,Tidak ada,1,Properti,23,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,24,Pernah telat bayar,Mobil baru,2032,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,60,Tidak ada,Gratis,2,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,30,Kredit berjalan lancar,Furniture,6350,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,31,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+>= 200 DM / gaji tetap,18,Kredit berjalan lancar,Furniture,2864,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,1,Properti,34,Tidak ada,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Ya,Buruk
+Tidak ada rekening,12,Masalah / kredit di luar bank,Mobil baru,1255,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Properti,61,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,24,Pernah telat bayar,Mobil baru,1333,< 100 DM,Menganggur,4,Pria lajang,Tidak ada,2,Properti,43,Tidak ada,Gratis,2,Terampil / pegawai,2,Tidak ada,Ya,Buruk
+Tidak ada rekening,24,Masalah / kredit di luar bank,Mobil baru,2022,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,37,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,TV / Radio,1552,< 100 DM,4-7 thn,3,Pria lajang,Tidak ada,1,Mobil / lainnya,32,Bank,Milik sendiri,1,Terampil / pegawai,2,Tidak ada,Ya,Baik
+< 0 DM,12,Kredit di bank ini lancar,TV / Radio,626,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,4,Properti,24,Bank,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+Tidak ada rekening,48,Masalah / kredit di luar bank,Mobil bekas,8858,Tidak ada / tidak tahu,4-7 thn,2,Pria lajang,Tidak ada,1,Tidak ada / tidak tahu,35,Tidak ada,Gratis,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,Renovasi,996,Tidak ada / tidak tahu,4-7 thn,4,Wanita menikah/cerai,Tidak ada,4,Properti,23,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,6,Kredit di bank ini lancar,TV / Radio,1750,500-999 DM,>= 7 thn,2,Pria lajang,Tidak ada,4,Tabungan/Asuransi,45,Bank,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+< 0 DM,48,Kredit berjalan lancar,TV / Radio,6999,< 100 DM,4-7 thn,1,Pria menikah/duda,Penjamin,1,Properti,34,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Buruk
+0-199 DM,12,Masalah / kredit di luar bank,Mobil baru,1995,100-499 DM,< 1 thn,4,Pria lajang,Tidak ada,1,Mobil / lainnya,27,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,9,Kredit berjalan lancar,Pendidikan,1199,< 100 DM,4-7 thn,4,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,67,Tidak ada,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,TV / Radio,1331,< 100 DM,< 1 thn,2,Pria lajang,Tidak ada,1,Mobil / lainnya,22,Toko,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,18,Tidak pernah kredit / selalu lancar,Mobil baru,2278,100-499 DM,< 1 thn,3,Wanita menikah/cerai,Tidak ada,3,Mobil / lainnya,28,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,21,Tidak pernah kredit / selalu lancar,Mobil baru,5003,Tidak ada / tidak tahu,1-4 thn,1,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,29,Bank,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Buruk
+< 0 DM,24,Kredit di bank ini lancar,Furniture,3552,< 100 DM,4-7 thn,3,Pria lajang,Tidak ada,4,Mobil / lainnya,27,Bank,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,18,Masalah / kredit di luar bank,Furniture,1928,< 100 DM,< 1 thn,2,Pria lajang,Tidak ada,2,Properti,31,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+< 0 DM,24,Kredit berjalan lancar,Mobil bekas,2964,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,49,Bank,Gratis,1,Terampil / pegawai,2,Ada,Ya,Baik
+< 0 DM,24,Kredit di bank ini lancar,TV / Radio,1546,< 100 DM,4-7 thn,4,Pria lajang,Penjamin,4,Mobil / lainnya,24,Bank,Sewa,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+>= 200 DM / gaji tetap,6,Pernah telat bayar,TV / Radio,683,< 100 DM,< 1 thn,2,Wanita menikah/cerai,Tidak ada,1,Tabungan/Asuransi,29,Bank,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,36,Kredit berjalan lancar,Mobil baru,12389,Tidak ada / tidak tahu,1-4 thn,1,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,37,Tidak ada,Gratis,1,Terampil / pegawai,1,Ada,Ya,Buruk
+0-199 DM,24,Pernah telat bayar,Bisnis,4712,Tidak ada / tidak tahu,1-4 thn,4,Pria lajang,Tidak ada,2,Tabungan/Asuransi,37,Bank,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,24,Pernah telat bayar,TV / Radio,1553,100-499 DM,4-7 thn,3,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,23,Tidak ada,Sewa,2,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,Mobil baru,1372,< 100 DM,4-7 thn,2,Pria cerai/pisah,Tidak ada,3,Mobil / lainnya,36,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,24,Masalah / kredit di luar bank,TV / Radio,2578,>= 1000 DM,>= 7 thn,2,Pria lajang,Tidak ada,2,Mobil / lainnya,34,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,48,Kredit berjalan lancar,TV / Radio,3979,Tidak ada / tidak tahu,4-7 thn,4,Pria lajang,Tidak ada,1,Mobil / lainnya,41,Tidak ada,Milik sendiri,2,Terampil / pegawai,2,Ada,Ya,Baik
+< 0 DM,48,Kredit berjalan lancar,TV / Radio,6758,< 100 DM,1-4 thn,3,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,31,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Buruk
+< 0 DM,24,Kredit berjalan lancar,Furniture,3234,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,4,Properti,23,Tidak ada,Sewa,1,Tidak terampil (residen),1,Ada,Ya,Buruk
+Tidak ada rekening,30,Masalah / kredit di luar bank,TV / Radio,5954,< 100 DM,4-7 thn,3,Pria lajang,Ko-pemohon,2,Mobil / lainnya,38,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,Mobil bekas,5433,Tidak ada / tidak tahu,Menganggur,2,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,26,Tidak ada,Sewa,1,Manajer / profesional,1,Ada,Ya,Baik
+< 0 DM,15,Kredit berjalan lancar,Bisnis,806,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,22,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,9,Kredit berjalan lancar,TV / Radio,1082,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,27,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,15,Masalah / kredit di luar bank,Furniture,2788,< 100 DM,4-7 thn,2,Wanita menikah/cerai,Ko-pemohon,3,Mobil / lainnya,24,Bank,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,TV / Radio,2930,< 100 DM,4-7 thn,2,Wanita menikah/cerai,Tidak ada,1,Properti,27,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Masalah / kredit di luar bank,Pendidikan,1927,Tidak ada / tidak tahu,1-4 thn,3,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,33,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,36,Masalah / kredit di luar bank,Mobil baru,2820,< 100 DM,< 1 thn,4,Pria cerai/pisah,Tidak ada,4,Mobil / lainnya,27,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,24,Kredit berjalan lancar,Pelatihan ulang,937,< 100 DM,< 1 thn,4,Pria menikah/duda,Tidak ada,3,Mobil / lainnya,27,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,18,Masalah / kredit di luar bank,Mobil baru,1056,< 100 DM,>= 7 thn,3,Pria lajang,Penjamin,3,Properti,30,Bank,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,12,Masalah / kredit di luar bank,Mobil baru,3124,< 100 DM,< 1 thn,1,Pria lajang,Tidak ada,3,Properti,49,Bank,Milik sendiri,2,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+Tidak ada rekening,9,Kredit berjalan lancar,Furniture,1388,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,2,Properti,26,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,36,Kredit berjalan lancar,Renovasi,2384,< 100 DM,< 1 thn,4,Pria lajang,Tidak ada,1,Tidak ada / tidak tahu,33,Tidak ada,Sewa,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+Tidak ada rekening,12,Kredit berjalan lancar,Mobil baru,2133,Tidak ada / tidak tahu,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,4,Tidak ada / tidak tahu,52,Tidak ada,Gratis,1,Manajer / profesional,1,Ada,Ya,Baik
+< 0 DM,18,Kredit berjalan lancar,Furniture,2039,< 100 DM,1-4 thn,1,Wanita menikah/cerai,Tidak ada,4,Properti,20,Bank,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,9,Masalah / kredit di luar bank,Mobil baru,2799,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Properti,36,Tidak ada,Sewa,2,Terampil / pegawai,2,Tidak ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,Furniture,1289,< 100 DM,1-4 thn,4,Pria lajang,Penjamin,1,Tabungan/Asuransi,21,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,18,Kredit berjalan lancar,Peralatan rumah,1217,< 100 DM,1-4 thn,4,Pria menikah/duda,Tidak ada,3,Properti,47,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Ada,Ya,Buruk
+< 0 DM,12,Masalah / kredit di luar bank,Furniture,2246,< 100 DM,>= 7 thn,3,Pria lajang,Tidak ada,3,Tabungan/Asuransi,60,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,12,Masalah / kredit di luar bank,TV / Radio,385,< 100 DM,4-7 thn,4,Wanita menikah/cerai,Tidak ada,3,Properti,58,Tidak ada,Milik sendiri,4,Tidak terampil (residen),1,Ada,Ya,Baik
+0-199 DM,24,Pernah telat bayar,Mobil baru,1965,Tidak ada / tidak tahu,1-4 thn,4,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,42,Tidak ada,Sewa,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,21,Kredit berjalan lancar,Bisnis,1572,>= 1000 DM,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,4,Properti,36,Bank,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,24,Kredit berjalan lancar,Mobil baru,2718,< 100 DM,1-4 thn,3,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,20,Tidak ada,Sewa,1,Tidak terampil (residen),1,Ada,Ya,Buruk
+< 0 DM,24,Kredit di bank ini lancar,Lainnya,1358,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,3,Mobil / lainnya,40,Toko,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Buruk
+0-199 DM,6,Kredit di bank ini lancar,Mobil baru,931,100-499 DM,< 1 thn,1,Wanita menikah/cerai,Tidak ada,1,Tabungan/Asuransi,32,Toko,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+< 0 DM,24,Kredit berjalan lancar,Mobil baru,1442,< 100 DM,4-7 thn,4,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,23,Tidak ada,Sewa,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,24,Tidak pernah kredit / selalu lancar,Bisnis,4241,< 100 DM,1-4 thn,1,Pria lajang,Tidak ada,4,Properti,36,Tidak ada,Milik sendiri,3,Tidak terampil (residen),1,Ada,Ya,Buruk
+Tidak ada rekening,18,Masalah / kredit di luar bank,Mobil baru,2775,< 100 DM,4-7 thn,2,Pria lajang,Tidak ada,2,Tabungan/Asuransi,31,Bank,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,24,Pernah telat bayar,Bisnis,3863,< 100 DM,1-4 thn,1,Pria lajang,Tidak ada,2,Tidak ada / tidak tahu,32,Tidak ada,Gratis,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,7,Kredit berjalan lancar,TV / Radio,2329,< 100 DM,< 1 thn,1,Wanita menikah/cerai,Penjamin,1,Properti,45,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,9,Kredit berjalan lancar,Furniture,918,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,1,Tabungan/Asuransi,30,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,24,Kredit di bank ini lancar,Pendidikan,1837,< 100 DM,4-7 thn,4,Wanita menikah/cerai,Tidak ada,4,Tidak ada / tidak tahu,34,Bank,Gratis,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+Tidak ada rekening,36,Kredit berjalan lancar,Furniture,3349,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,28,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Buruk
+>= 200 DM / gaji tetap,10,Kredit berjalan lancar,Furniture,1275,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,23,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,24,Kredit di bank ini lancar,Furniture,2828,500-999 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Properti,22,Toko,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,24,Masalah / kredit di luar bank,Bisnis,4526,< 100 DM,1-4 thn,3,Pria lajang,Tidak ada,2,Properti,74,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,36,Kredit berjalan lancar,TV / Radio,2671,100-499 DM,1-4 thn,4,Wanita menikah/cerai,Ko-pemohon,4,Tidak ada / tidak tahu,50,Tidak ada,Gratis,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,18,Kredit berjalan lancar,TV / Radio,2051,< 100 DM,< 1 thn,4,Pria lajang,Tidak ada,1,Properti,33,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,15,Kredit berjalan lancar,Mobil bekas,1300,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,45,Bank,Gratis,1,Terampil / pegawai,2,Tidak ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,Peralatan rumah,741,100-499 DM,Menganggur,4,Wanita menikah/cerai,Tidak ada,3,Tabungan/Asuransi,22,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+>= 200 DM / gaji tetap,10,Kredit berjalan lancar,Mobil baru,1240,100-499 DM,>= 7 thn,1,Wanita menikah/cerai,Tidak ada,4,Tidak ada / tidak tahu,48,Tidak ada,Gratis,1,Tidak terampil (residen),2,Tidak ada,Ya,Buruk
+< 0 DM,21,Kredit berjalan lancar,TV / Radio,3357,>= 1000 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,29,Bank,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,24,Kredit di bank ini lancar,Mobil bekas,3632,< 100 DM,1-4 thn,1,Wanita menikah/cerai,Penjamin,4,Mobil / lainnya,22,Bank,Sewa,1,Terampil / pegawai,1,Tidak ada,Bukan,Baik
+Tidak ada rekening,18,Pernah telat bayar,Furniture,1808,< 100 DM,4-7 thn,4,Wanita menikah/cerai,Tidak ada,1,Properti,22,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,48,Tidak pernah kredit / selalu lancar,Bisnis,12204,Tidak ada / tidak tahu,1-4 thn,2,Pria lajang,Tidak ada,2,Mobil / lainnya,48,Bank,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,60,Pernah telat bayar,TV / Radio,9157,Tidak ada / tidak tahu,1-4 thn,2,Pria lajang,Tidak ada,2,Tidak ada / tidak tahu,27,Tidak ada,Gratis,1,Manajer / profesional,1,Tidak ada,Ya,Baik
+< 0 DM,6,Masalah / kredit di luar bank,Mobil baru,3676,< 100 DM,1-4 thn,1,Pria lajang,Tidak ada,3,Properti,37,Tidak ada,Sewa,3,Terampil / pegawai,2,Tidak ada,Ya,Baik
+0-199 DM,30,Kredit berjalan lancar,Furniture,3441,100-499 DM,1-4 thn,2,Wanita menikah/cerai,Ko-pemohon,4,Mobil / lainnya,21,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,12,Kredit berjalan lancar,Mobil baru,640,< 100 DM,1-4 thn,4,Pria cerai/pisah,Tidak ada,2,Properti,49,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,21,Masalah / kredit di luar bank,Bisnis,3652,< 100 DM,4-7 thn,2,Pria lajang,Tidak ada,3,Tabungan/Asuransi,27,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Masalah / kredit di luar bank,Mobil baru,1530,< 100 DM,1-4 thn,3,Pria lajang,Tidak ada,2,Tabungan/Asuransi,32,Bank,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,48,Kredit berjalan lancar,Bisnis,3914,Tidak ada / tidak tahu,1-4 thn,4,Pria cerai/pisah,Tidak ada,2,Properti,38,Bank,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,12,Kredit berjalan lancar,Furniture,1858,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,1,Mobil / lainnya,22,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,18,Kredit berjalan lancar,TV / Radio,2600,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,65,Tidak ada,Gratis,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,15,Kredit berjalan lancar,TV / Radio,1979,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,35,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,6,Kredit berjalan lancar,Furniture,2116,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Properti,41,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,9,Kredit di bank ini lancar,Mobil baru,1437,100-499 DM,4-7 thn,2,Pria lajang,Tidak ada,3,Tidak ada / tidak tahu,29,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,42,Masalah / kredit di luar bank,Furniture,4042,500-999 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Properti,36,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,9,Kredit berjalan lancar,Pendidikan,3832,Tidak ada / tidak tahu,>= 7 thn,1,Pria lajang,Tidak ada,4,Properti,64,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,24,Kredit berjalan lancar,TV / Radio,3660,< 100 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,28,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,18,Kredit di bank ini lancar,Furniture,1553,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,3,Mobil / lainnya,44,Bank,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,15,Kredit berjalan lancar,TV / Radio,1444,Tidak ada / tidak tahu,< 1 thn,4,Pria lajang,Tidak ada,1,Tabungan/Asuransi,23,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,9,Kredit berjalan lancar,Furniture,1980,< 100 DM,< 1 thn,2,Wanita menikah/cerai,Ko-pemohon,2,Mobil / lainnya,19,Tidak ada,Sewa,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,24,Kredit berjalan lancar,Mobil baru,1355,< 100 DM,< 1 thn,3,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,25,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Ada,Ya,Buruk
+Tidak ada rekening,12,Kredit berjalan lancar,Pendidikan,1393,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,47,Bank,Milik sendiri,3,Terampil / pegawai,2,Ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,TV / Radio,1376,500-999 DM,4-7 thn,4,Wanita menikah/cerai,Tidak ada,1,Mobil / lainnya,28,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,60,Pernah telat bayar,TV / Radio,15653,< 100 DM,4-7 thn,2,Pria lajang,Tidak ada,4,Mobil / lainnya,21,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,TV / Radio,1493,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,3,Mobil / lainnya,34,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Tidak ada,Ya,Baik
+< 0 DM,42,Pernah telat bayar,TV / Radio,4370,< 100 DM,4-7 thn,3,Pria lajang,Tidak ada,2,Tabungan/Asuransi,26,Bank,Milik sendiri,2,Terampil / pegawai,2,Ada,Ya,Buruk
+< 0 DM,18,Kredit berjalan lancar,Pendidikan,750,< 100 DM,Menganggur,4,Wanita menikah/cerai,Tidak ada,1,Properti,27,Tidak ada,Milik sendiri,1,Pengangguran / tidak terampil (non-residen),1,Tidak ada,Ya,Buruk
+0-199 DM,15,Kredit berjalan lancar,Renovasi,1308,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,38,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,15,Kredit berjalan lancar,Pendidikan,4623,100-499 DM,1-4 thn,3,Pria lajang,Tidak ada,2,Tabungan/Asuransi,40,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,24,Masalah / kredit di luar bank,TV / Radio,1851,< 100 DM,4-7 thn,4,Pria menikah/duda,Penjamin,2,Mobil / lainnya,33,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,18,Masalah / kredit di luar bank,TV / Radio,1880,< 100 DM,4-7 thn,4,Pria menikah/duda,Tidak ada,1,Tabungan/Asuransi,32,Tidak ada,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,36,Pernah telat bayar,Bisnis,7980,Tidak ada / tidak tahu,< 1 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,27,Tidak ada,Sewa,2,Terampil / pegawai,1,Ada,Ya,Buruk
+< 0 DM,30,Tidak pernah kredit / selalu lancar,Furniture,4583,< 100 DM,1-4 thn,2,Pria cerai/pisah,Penjamin,2,Properti,32,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,Mobil baru,1386,500-999 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+>= 200 DM / gaji tetap,24,Kredit berjalan lancar,Mobil baru,947,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,3,Tidak ada / tidak tahu,38,Bank,Gratis,1,Terampil / pegawai,2,Tidak ada,Ya,Buruk
+< 0 DM,12,Kredit berjalan lancar,Pendidikan,684,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,40,Tidak ada,Sewa,1,Tidak terampil (residen),2,Tidak ada,Ya,Buruk
+< 0 DM,48,Kredit berjalan lancar,Pendidikan,7476,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,1,Tidak ada / tidak tahu,50,Tidak ada,Gratis,1,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,Furniture,1922,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Tabungan/Asuransi,37,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+< 0 DM,24,Kredit berjalan lancar,Mobil baru,2303,< 100 DM,>= 7 thn,4,Pria lajang,Ko-pemohon,1,Properti,45,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,36,Pernah telat bayar,Mobil baru,8086,100-499 DM,>= 7 thn,2,Pria lajang,Tidak ada,4,Mobil / lainnya,42,Tidak ada,Milik sendiri,4,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,24,Masalah / kredit di luar bank,Mobil bekas,2346,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,3,Mobil / lainnya,35,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,14,Kredit berjalan lancar,Mobil baru,3973,< 100 DM,Menganggur,1,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,22,Tidak ada,Gratis,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,Mobil baru,888,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,41,Bank,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Ya,Buruk
+Tidak ada rekening,48,Kredit berjalan lancar,TV / Radio,10222,Tidak ada / tidak tahu,4-7 thn,4,Pria lajang,Tidak ada,3,Mobil / lainnya,37,Toko,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,30,Tidak pernah kredit / selalu lancar,Bisnis,4221,< 100 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,1,Mobil / lainnya,28,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,18,Masalah / kredit di luar bank,Furniture,6361,< 100 DM,>= 7 thn,2,Pria lajang,Tidak ada,1,Tidak ada / tidak tahu,41,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+>= 200 DM / gaji tetap,12,Kredit berjalan lancar,TV / Radio,1297,< 100 DM,1-4 thn,3,Pria menikah/duda,Tidak ada,4,Properti,23,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,Mobil baru,900,Tidak ada / tidak tahu,1-4 thn,4,Pria menikah/duda,Tidak ada,2,Mobil / lainnya,23,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,21,Kredit berjalan lancar,Furniture,2241,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,2,Properti,50,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,6,Pernah telat bayar,Furniture,1050,< 100 DM,Menganggur,4,Pria lajang,Tidak ada,1,Tabungan/Asuransi,35,Toko,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Baik
+>= 200 DM / gaji tetap,6,Masalah / kredit di luar bank,Pendidikan,1047,< 100 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,50,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Masalah / kredit di luar bank,Lainnya,6314,< 100 DM,Menganggur,4,Pria lajang,Ko-pemohon,2,Tidak ada / tidak tahu,27,Bank,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,30,Kredit di bank ini lancar,Furniture,3496,>= 1000 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,34,Toko,Milik sendiri,1,Terampil / pegawai,2,Ada,Ya,Baik
+Tidak ada rekening,48,Kredit di bank ini lancar,Bisnis,3609,< 100 DM,1-4 thn,1,Wanita menikah/cerai,Tidak ada,1,Properti,27,Toko,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,12,Masalah / kredit di luar bank,Mobil baru,4843,< 100 DM,>= 7 thn,3,Pria lajang,Ko-pemohon,4,Tabungan/Asuransi,43,Tidak ada,Sewa,2,Terampil / pegawai,1,Ada,Ya,Buruk
+>= 200 DM / gaji tetap,30,Masalah / kredit di luar bank,TV / Radio,3017,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,47,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Masalah / kredit di luar bank,Bisnis,4139,100-499 DM,1-4 thn,3,Pria lajang,Tidak ada,3,Tabungan/Asuransi,27,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Ada,Ya,Baik
+Tidak ada rekening,36,Kredit berjalan lancar,Bisnis,5742,100-499 DM,4-7 thn,2,Pria lajang,Tidak ada,2,Mobil / lainnya,31,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,60,Kredit berjalan lancar,Mobil baru,10366,< 100 DM,>= 7 thn,2,Pria lajang,Tidak ada,4,Tabungan/Asuransi,42,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,6,Masalah / kredit di luar bank,Mobil baru,2080,500-999 DM,1-4 thn,1,Pria menikah/duda,Tidak ada,2,Mobil / lainnya,24,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,21,Pernah telat bayar,Bisnis,2580,500-999 DM,< 1 thn,4,Pria lajang,Tidak ada,2,Properti,41,Bank,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Ya,Buruk
+Tidak ada rekening,30,Masalah / kredit di luar bank,TV / Radio,4530,< 100 DM,4-7 thn,4,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,26,Tidak ada,Sewa,1,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,24,Masalah / kredit di luar bank,Furniture,5150,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,33,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,72,Kredit berjalan lancar,TV / Radio,5595,100-499 DM,1-4 thn,2,Pria menikah/duda,Tidak ada,2,Mobil / lainnya,24,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,24,Kredit berjalan lancar,TV / Radio,2384,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Properti,64,Bank,Sewa,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Kredit berjalan lancar,TV / Radio,1453,< 100 DM,< 1 thn,3,Wanita menikah/cerai,Tidak ada,1,Properti,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,6,Kredit berjalan lancar,Pendidikan,1538,< 100 DM,< 1 thn,1,Wanita menikah/cerai,Tidak ada,2,Tidak ada / tidak tahu,56,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,TV / Radio,2279,Tidak ada / tidak tahu,1-4 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,37,Tidak ada,Gratis,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,15,Pernah telat bayar,TV / Radio,1478,< 100 DM,1-4 thn,4,Pria menikah/duda,Tidak ada,3,Properti,33,Bank,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Masalah / kredit di luar bank,TV / Radio,5103,< 100 DM,< 1 thn,3,Pria menikah/duda,Tidak ada,3,Tidak ada / tidak tahu,47,Tidak ada,Gratis,3,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,36,Pernah telat bayar,Bisnis,9857,100-499 DM,4-7 thn,1,Pria lajang,Tidak ada,3,Tabungan/Asuransi,31,Tidak ada,Milik sendiri,2,Tidak terampil (residen),2,Ada,Ya,Baik
+Tidak ada rekening,60,Kredit berjalan lancar,Mobil baru,6527,Tidak ada / tidak tahu,1-4 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,34,Tidak ada,Gratis,1,Terampil / pegawai,2,Ada,Ya,Baik
+>= 200 DM / gaji tetap,10,Masalah / kredit di luar bank,TV / Radio,1347,Tidak ada / tidak tahu,4-7 thn,4,Pria lajang,Tidak ada,2,Tabungan/Asuransi,27,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,36,Pernah telat bayar,Mobil baru,2862,100-499 DM,>= 7 thn,4,Pria lajang,Tidak ada,3,Tidak ada / tidak tahu,30,Tidak ada,Gratis,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,9,Kredit berjalan lancar,TV / Radio,2753,100-499 DM,>= 7 thn,3,Pria lajang,Ko-pemohon,4,Mobil / lainnya,35,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,Mobil baru,3651,>= 1000 DM,1-4 thn,1,Pria lajang,Tidak ada,3,Tabungan/Asuransi,31,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Tidak ada,Ya,Baik
+< 0 DM,15,Masalah / kredit di luar bank,Furniture,975,< 100 DM,1-4 thn,2,Pria cerai/pisah,Tidak ada,3,Tabungan/Asuransi,25,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,15,Kredit berjalan lancar,Renovasi,2631,100-499 DM,1-4 thn,3,Wanita menikah/cerai,Tidak ada,2,Properti,25,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,24,Kredit berjalan lancar,TV / Radio,2896,100-499 DM,< 1 thn,2,Pria lajang,Tidak ada,1,Mobil / lainnya,29,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,6,Masalah / kredit di luar bank,Mobil baru,4716,Tidak ada / tidak tahu,< 1 thn,1,Pria lajang,Tidak ada,3,Properti,44,Tidak ada,Milik sendiri,2,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,TV / Radio,2284,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,28,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,6,Kredit berjalan lancar,Mobil bekas,1236,500-999 DM,1-4 thn,2,Pria lajang,Tidak ada,4,Tabungan/Asuransi,50,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,TV / Radio,1103,< 100 DM,4-7 thn,4,Pria lajang,Penjamin,3,Properti,29,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Bukan,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,Mobil baru,926,< 100 DM,Menganggur,1,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,38,Tidak ada,Milik sendiri,1,Pengangguran / tidak terampil (non-residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Masalah / kredit di luar bank,TV / Radio,1800,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,24,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,15,Kredit berjalan lancar,Pendidikan,1905,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,40,Tidak ada,Sewa,1,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,Furniture,1123,500-999 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,29,Tidak ada,Sewa,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+< 0 DM,48,Masalah / kredit di luar bank,Mobil bekas,6331,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,46,Tidak ada,Gratis,2,Terampil / pegawai,1,Ada,Ya,Buruk
+>= 200 DM / gaji tetap,24,Kredit berjalan lancar,TV / Radio,1377,100-499 DM,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,2,Tidak ada / tidak tahu,47,Tidak ada,Gratis,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,30,Pernah telat bayar,Bisnis,2503,100-499 DM,>= 7 thn,4,Pria lajang,Tidak ada,2,Tabungan/Asuransi,41,Toko,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,27,Kredit berjalan lancar,Bisnis,2528,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,1,Tabungan/Asuransi,32,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Ada,Ya,Baik
+Tidak ada rekening,15,Kredit berjalan lancar,Mobil baru,5324,500-999 DM,>= 7 thn,1,Wanita menikah/cerai,Tidak ada,4,Tidak ada / tidak tahu,35,Tidak ada,Gratis,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,48,Kredit berjalan lancar,Mobil baru,6560,100-499 DM,4-7 thn,3,Pria lajang,Tidak ada,2,Tabungan/Asuransi,24,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,12,Tidak pernah kredit / selalu lancar,Furniture,2969,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,3,Tabungan/Asuransi,25,Tidak ada,Sewa,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,9,Kredit berjalan lancar,TV / Radio,1206,< 100 DM,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,4,Properti,25,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,9,Kredit berjalan lancar,TV / Radio,2118,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Properti,37,Tidak ada,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Masalah / kredit di luar bank,TV / Radio,629,500-999 DM,>= 7 thn,4,Pria lajang,Tidak ada,3,Tabungan/Asuransi,32,Bank,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Baik
+< 0 DM,6,Kredit di bank ini lancar,Pendidikan,1198,< 100 DM,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,4,Tidak ada / tidak tahu,35,Tidak ada,Gratis,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,21,Kredit berjalan lancar,Mobil bekas,2476,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Properti,46,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+< 0 DM,9,Masalah / kredit di luar bank,TV / Radio,1138,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Properti,25,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,60,Kredit berjalan lancar,Mobil baru,14027,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,2,Tidak ada / tidak tahu,27,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,30,Masalah / kredit di luar bank,Mobil bekas,7596,Tidak ada / tidak tahu,>= 7 thn,1,Pria lajang,Tidak ada,4,Mobil / lainnya,63,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,30,Masalah / kredit di luar bank,TV / Radio,3077,Tidak ada / tidak tahu,>= 7 thn,3,Pria lajang,Tidak ada,2,Mobil / lainnya,40,Tidak ada,Milik sendiri,2,Terampil / pegawai,2,Ada,Ya,Baik
+Tidak ada rekening,18,Kredit berjalan lancar,TV / Radio,1505,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Tidak ada / tidak tahu,32,Tidak ada,Gratis,1,Manajer / profesional,1,Ada,Ya,Baik
+>= 200 DM / gaji tetap,24,Masalah / kredit di luar bank,TV / Radio,3148,Tidak ada / tidak tahu,1-4 thn,3,Pria lajang,Tidak ada,2,Mobil / lainnya,31,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,20,Tidak pernah kredit / selalu lancar,Mobil bekas,6148,100-499 DM,>= 7 thn,3,Pria menikah/duda,Tidak ada,4,Mobil / lainnya,31,Bank,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+>= 200 DM / gaji tetap,9,Tidak pernah kredit / selalu lancar,TV / Radio,1337,< 100 DM,< 1 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,34,Tidak ada,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Buruk
+0-199 DM,6,Kredit di bank ini lancar,Pendidikan,433,>= 1000 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,24,Bank,Sewa,1,Terampil / pegawai,2,Tidak ada,Ya,Buruk
+< 0 DM,12,Kredit berjalan lancar,Mobil baru,1228,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,2,Properti,24,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+0-199 DM,9,Kredit berjalan lancar,TV / Radio,790,500-999 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,3,Properti,66,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,27,Kredit berjalan lancar,Mobil baru,2570,< 100 DM,1-4 thn,3,Wanita menikah/cerai,Tidak ada,3,Properti,21,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,6,Masalah / kredit di luar bank,Mobil baru,250,>= 1000 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,2,Properti,41,Bank,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,15,Masalah / kredit di luar bank,TV / Radio,1316,500-999 DM,1-4 thn,2,Pria menikah/duda,Tidak ada,2,Tabungan/Asuransi,47,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,18,Kredit berjalan lancar,TV / Radio,1882,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,25,Bank,Sewa,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,48,Kredit di bank ini lancar,Bisnis,6416,< 100 DM,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,3,Tidak ada / tidak tahu,59,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+>= 200 DM / gaji tetap,24,Masalah / kredit di luar bank,Bisnis,1275,>= 1000 DM,1-4 thn,2,Pria cerai/pisah,Tidak ada,4,Properti,36,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,24,Pernah telat bayar,TV / Radio,6403,< 100 DM,< 1 thn,1,Pria lajang,Tidak ada,2,Mobil / lainnya,33,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,24,Kredit berjalan lancar,TV / Radio,1987,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,4,Properti,21,Tidak ada,Sewa,1,Tidak terampil (residen),2,Tidak ada,Ya,Buruk
+0-199 DM,8,Kredit berjalan lancar,TV / Radio,760,< 100 DM,4-7 thn,4,Wanita menikah/cerai,Penjamin,2,Properti,44,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,Mobil bekas,2603,>= 1000 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,28,Tidak ada,Sewa,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,4,Masalah / kredit di luar bank,Mobil baru,3380,< 100 DM,4-7 thn,1,Wanita menikah/cerai,Tidak ada,1,Properti,37,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Tidak ada,Ya,Baik
+0-199 DM,36,Kredit di bank ini lancar,Peralatan rumah,3990,Tidak ada / tidak tahu,< 1 thn,3,Wanita menikah/cerai,Tidak ada,2,Tidak ada / tidak tahu,29,Bank,Milik sendiri,1,Pengangguran / tidak terampil (non-residen),1,Tidak ada,Ya,Baik
+0-199 DM,24,Kredit berjalan lancar,Mobil bekas,11560,< 100 DM,1-4 thn,1,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,23,Tidak ada,Sewa,2,Manajer / profesional,1,Tidak ada,Ya,Buruk
+< 0 DM,18,Kredit berjalan lancar,Mobil baru,4380,100-499 DM,1-4 thn,3,Pria lajang,Tidak ada,4,Mobil / lainnya,35,Tidak ada,Milik sendiri,1,Tidak terampil (residen),2,Ada,Ya,Baik
+Tidak ada rekening,6,Masalah / kredit di luar bank,Mobil baru,6761,< 100 DM,4-7 thn,1,Pria lajang,Tidak ada,3,Tidak ada / tidak tahu,45,Tidak ada,Milik sendiri,2,Manajer / profesional,2,Ada,Ya,Baik
+0-199 DM,30,Tidak pernah kredit / selalu lancar,Bisnis,4280,100-499 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,26,Tidak ada,Sewa,2,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+< 0 DM,24,Kredit di bank ini lancar,Mobil baru,2325,100-499 DM,4-7 thn,2,Pria lajang,Tidak ada,3,Mobil / lainnya,32,Bank,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,10,Kredit di bank ini lancar,TV / Radio,1048,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Properti,23,Toko,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,21,Kredit berjalan lancar,TV / Radio,3160,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,3,Tabungan/Asuransi,41,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,24,Kredit di bank ini lancar,Furniture,2483,500-999 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Properti,22,Toko,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,39,Masalah / kredit di luar bank,Furniture,14179,Tidak ada / tidak tahu,4-7 thn,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,30,Tidak ada,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Baik
+< 0 DM,13,Masalah / kredit di luar bank,Bisnis,1797,< 100 DM,< 1 thn,3,Pria lajang,Tidak ada,1,Tabungan/Asuransi,28,Bank,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,15,Kredit berjalan lancar,Mobil baru,2511,< 100 DM,Menganggur,1,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,23,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,Mobil baru,1274,< 100 DM,< 1 thn,3,Wanita menikah/cerai,Tidak ada,1,Properti,37,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+Tidak ada rekening,21,Kredit berjalan lancar,Mobil bekas,5248,Tidak ada / tidak tahu,1-4 thn,1,Pria lajang,Tidak ada,3,Mobil / lainnya,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,15,Kredit berjalan lancar,Mobil bekas,3029,< 100 DM,4-7 thn,2,Pria lajang,Tidak ada,2,Mobil / lainnya,33,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,6,Kredit berjalan lancar,Furniture,428,< 100 DM,>= 7 thn,2,Wanita menikah/cerai,Tidak ada,1,Tabungan/Asuransi,49,Bank,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,18,Kredit berjalan lancar,Mobil baru,976,< 100 DM,< 1 thn,1,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,23,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+0-199 DM,12,Kredit berjalan lancar,Bisnis,841,100-499 DM,4-7 thn,2,Wanita menikah/cerai,Tidak ada,4,Properti,23,Tidak ada,Sewa,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,30,Masalah / kredit di luar bank,TV / Radio,5771,< 100 DM,4-7 thn,4,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,25,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,12,Pernah telat bayar,Renovasi,1555,>= 1000 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,55,Tidak ada,Gratis,2,Terampil / pegawai,2,Tidak ada,Ya,Buruk
+< 0 DM,24,Kredit berjalan lancar,Mobil baru,1285,Tidak ada / tidak tahu,4-7 thn,4,Wanita menikah/cerai,Tidak ada,4,Tidak ada / tidak tahu,32,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+>= 200 DM / gaji tetap,6,Masalah / kredit di luar bank,Mobil baru,1299,< 100 DM,1-4 thn,1,Pria lajang,Tidak ada,1,Properti,74,Tidak ada,Milik sendiri,3,Pengangguran / tidak terampil (non-residen),2,Tidak ada,Bukan,Baik
+>= 200 DM / gaji tetap,15,Masalah / kredit di luar bank,TV / Radio,1271,Tidak ada / tidak tahu,1-4 thn,3,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,39,Tidak ada,Gratis,2,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,24,Kredit berjalan lancar,Mobil baru,1393,< 100 DM,1-4 thn,2,Pria lajang,Penjamin,2,Properti,31,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,12,Masalah / kredit di luar bank,Mobil baru,691,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,3,Tabungan/Asuransi,35,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,15,Masalah / kredit di luar bank,Mobil baru,5045,Tidak ada / tidak tahu,>= 7 thn,1,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,59,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,18,Masalah / kredit di luar bank,Furniture,2124,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,4,Properti,24,Tidak ada,Sewa,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,12,Kredit berjalan lancar,TV / Radio,2214,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,3,Tabungan/Asuransi,24,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,21,Masalah / kredit di luar bank,Mobil baru,12680,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,30,Tidak ada,Gratis,1,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,24,Masalah / kredit di luar bank,Mobil baru,2463,100-499 DM,4-7 thn,4,Pria menikah/duda,Tidak ada,3,Tabungan/Asuransi,27,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,TV / Radio,1155,< 100 DM,>= 7 thn,3,Pria menikah/duda,Penjamin,3,Properti,40,Bank,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,30,Kredit berjalan lancar,Furniture,3108,< 100 DM,< 1 thn,2,Pria cerai/pisah,Tidak ada,4,Tabungan/Asuransi,31,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+Tidak ada rekening,10,Kredit berjalan lancar,Mobil bekas,2901,Tidak ada / tidak tahu,< 1 thn,1,Wanita menikah/cerai,Tidak ada,4,Properti,31,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,12,Masalah / kredit di luar bank,Furniture,3617,< 100 DM,>= 7 thn,1,Pria lajang,Tidak ada,4,Mobil / lainnya,28,Tidak ada,Sewa,3,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,TV / Radio,1655,< 100 DM,>= 7 thn,2,Pria lajang,Tidak ada,4,Properti,63,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Ada,Ya,Baik
+< 0 DM,24,Kredit berjalan lancar,Mobil bekas,2812,Tidak ada / tidak tahu,>= 7 thn,2,Wanita menikah/cerai,Tidak ada,4,Properti,26,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,36,Masalah / kredit di luar bank,Pendidikan,8065,< 100 DM,1-4 thn,3,Wanita menikah/cerai,Tidak ada,2,Tidak ada / tidak tahu,25,Tidak ada,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,21,Masalah / kredit di luar bank,Mobil bekas,3275,< 100 DM,>= 7 thn,1,Pria lajang,Tidak ada,4,Mobil / lainnya,36,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,24,Masalah / kredit di luar bank,TV / Radio,2223,100-499 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,52,Bank,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,12,Masalah / kredit di luar bank,Mobil baru,1480,500-999 DM,Menganggur,2,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,66,Bank,Gratis,3,Pengangguran / tidak terampil (non-residen),1,Tidak ada,Ya,Baik
+< 0 DM,24,Kredit berjalan lancar,Mobil baru,1371,Tidak ada / tidak tahu,1-4 thn,4,Wanita menikah/cerai,Tidak ada,4,Properti,25,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,36,Masalah / kredit di luar bank,Mobil baru,3535,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,37,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,18,Kredit berjalan lancar,TV / Radio,3509,< 100 DM,4-7 thn,4,Wanita menikah/cerai,Penjamin,1,Properti,25,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,36,Masalah / kredit di luar bank,Mobil bekas,5711,>= 1000 DM,>= 7 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,38,Tidak ada,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,18,Kredit berjalan lancar,Renovasi,3872,< 100 DM,Menganggur,2,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,67,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,39,Masalah / kredit di luar bank,TV / Radio,4933,< 100 DM,4-7 thn,2,Pria lajang,Penjamin,2,Properti,25,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,24,Masalah / kredit di luar bank,Mobil baru,1940,>= 1000 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Properti,60,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,12,Tidak pernah kredit / selalu lancar,Pelatihan ulang,1410,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Properti,31,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,Mobil baru,836,100-499 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,23,Bank,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+0-199 DM,20,Kredit berjalan lancar,Mobil bekas,6468,Tidak ada / tidak tahu,Menganggur,1,Pria cerai/pisah,Tidak ada,4,Properti,60,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,18,Kredit berjalan lancar,Bisnis,1941,>= 1000 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Tabungan/Asuransi,35,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Ada,Ya,Baik
+Tidak ada rekening,22,Kredit berjalan lancar,TV / Radio,2675,500-999 DM,>= 7 thn,3,Pria lajang,Tidak ada,4,Mobil / lainnya,40,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,48,Masalah / kredit di luar bank,Mobil bekas,2751,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,3,Mobil / lainnya,38,Tidak ada,Milik sendiri,2,Terampil / pegawai,2,Ada,Ya,Baik
+0-199 DM,48,Pernah telat bayar,Pendidikan,6224,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,50,Tidak ada,Gratis,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,40,Masalah / kredit di luar bank,Pendidikan,5998,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,3,Tidak ada / tidak tahu,27,Bank,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Buruk
+0-199 DM,21,Kredit berjalan lancar,Bisnis,1188,< 100 DM,>= 7 thn,2,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,39,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Tidak ada,Ya,Buruk
+Tidak ada rekening,24,Kredit berjalan lancar,Mobil bekas,6313,Tidak ada / tidak tahu,>= 7 thn,3,Pria lajang,Tidak ada,4,Mobil / lainnya,41,Tidak ada,Milik sendiri,1,Manajer / profesional,2,Ada,Ya,Baik
+Tidak ada rekening,6,Masalah / kredit di luar bank,Furniture,1221,Tidak ada / tidak tahu,1-4 thn,1,Pria menikah/duda,Tidak ada,2,Tabungan/Asuransi,27,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,24,Kredit berjalan lancar,Furniture,2892,< 100 DM,>= 7 thn,3,Pria cerai/pisah,Tidak ada,4,Tidak ada / tidak tahu,51,Tidak ada,Gratis,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,Furniture,3062,500-999 DM,>= 7 thn,4,Pria lajang,Tidak ada,3,Tidak ada / tidak tahu,32,Tidak ada,Sewa,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,9,Kredit berjalan lancar,Furniture,2301,100-499 DM,< 1 thn,2,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,22,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,18,Kredit berjalan lancar,Mobil bekas,7511,Tidak ada / tidak tahu,>= 7 thn,1,Pria lajang,Tidak ada,4,Tabungan/Asuransi,51,Tidak ada,Gratis,1,Terampil / pegawai,2,Ada,Ya,Buruk
+Tidak ada rekening,12,Masalah / kredit di luar bank,Furniture,1258,< 100 DM,< 1 thn,2,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,22,Tidak ada,Sewa,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Pernah telat bayar,Mobil baru,717,Tidak ada / tidak tahu,>= 7 thn,4,Pria menikah/duda,Tidak ada,4,Mobil / lainnya,54,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,9,Kredit berjalan lancar,Mobil baru,1549,Tidak ada / tidak tahu,< 1 thn,4,Pria lajang,Tidak ada,2,Properti,35,Tidak ada,Milik sendiri,1,Pengangguran / tidak terampil (non-residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Masalah / kredit di luar bank,Pendidikan,1597,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,54,Tidak ada,Gratis,2,Terampil / pegawai,2,Tidak ada,Ya,Baik
+0-199 DM,18,Masalah / kredit di luar bank,TV / Radio,1795,< 100 DM,>= 7 thn,3,Wanita menikah/cerai,Penjamin,4,Properti,48,Bank,Sewa,2,Tidak terampil (residen),1,Ada,Ya,Baik
+< 0 DM,20,Masalah / kredit di luar bank,Furniture,4272,< 100 DM,>= 7 thn,1,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,24,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,TV / Radio,976,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,35,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,12,Kredit berjalan lancar,Mobil baru,7472,Tidak ada / tidak tahu,Menganggur,1,Wanita menikah/cerai,Tidak ada,2,Properti,24,Tidak ada,Sewa,1,Pengangguran / tidak terampil (non-residen),1,Tidak ada,Ya,Baik
+< 0 DM,36,Kredit berjalan lancar,Mobil baru,9271,< 100 DM,4-7 thn,2,Pria lajang,Tidak ada,1,Mobil / lainnya,24,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Buruk
+0-199 DM,6,Kredit berjalan lancar,TV / Radio,590,< 100 DM,< 1 thn,3,Pria menikah/duda,Tidak ada,3,Properti,26,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Bukan,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,TV / Radio,930,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Properti,65,Tidak ada,Milik sendiri,4,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,42,Kredit di bank ini lancar,Mobil bekas,9283,< 100 DM,Menganggur,1,Pria lajang,Tidak ada,2,Tidak ada / tidak tahu,55,Bank,Gratis,1,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,15,Tidak pernah kredit / selalu lancar,Mobil baru,1778,< 100 DM,< 1 thn,2,Wanita menikah/cerai,Tidak ada,1,Properti,26,Tidak ada,Sewa,2,Pengangguran / tidak terampil (non-residen),1,Tidak ada,Ya,Buruk
+0-199 DM,8,Kredit berjalan lancar,Bisnis,907,< 100 DM,< 1 thn,3,Pria menikah/duda,Tidak ada,2,Properti,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,6,Kredit berjalan lancar,TV / Radio,484,< 100 DM,4-7 thn,3,Pria menikah/duda,Penjamin,3,Properti,28,Bank,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,36,Masalah / kredit di luar bank,Mobil bekas,9629,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,24,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Buruk
+< 0 DM,48,Kredit berjalan lancar,Peralatan rumah,3051,< 100 DM,1-4 thn,3,Pria lajang,Tidak ada,4,Mobil / lainnya,54,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,48,Kredit berjalan lancar,Mobil baru,3931,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,46,Tidak ada,Gratis,1,Terampil / pegawai,2,Tidak ada,Ya,Buruk
+0-199 DM,36,Pernah telat bayar,Mobil baru,7432,< 100 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,54,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,6,Kredit berjalan lancar,Peralatan rumah,1338,500-999 DM,1-4 thn,1,Pria cerai/pisah,Tidak ada,4,Properti,62,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,6,Masalah / kredit di luar bank,TV / Radio,1554,< 100 DM,4-7 thn,1,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,24,Tidak ada,Sewa,2,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,36,Kredit berjalan lancar,Lainnya,15857,< 100 DM,Menganggur,2,Pria cerai/pisah,Ko-pemohon,3,Mobil / lainnya,43,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Tidak ada,Ya,Baik
+< 0 DM,18,Kredit berjalan lancar,TV / Radio,1345,< 100 DM,1-4 thn,4,Pria menikah/duda,Tidak ada,3,Properti,26,Bank,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,12,Kredit berjalan lancar,Mobil baru,1101,< 100 DM,1-4 thn,3,Pria menikah/duda,Tidak ada,2,Properti,27,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+>= 200 DM / gaji tetap,12,Kredit berjalan lancar,TV / Radio,3016,< 100 DM,1-4 thn,3,Pria menikah/duda,Tidak ada,1,Mobil / lainnya,24,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,36,Kredit berjalan lancar,Furniture,2712,< 100 DM,>= 7 thn,2,Pria lajang,Tidak ada,2,Tabungan/Asuransi,41,Bank,Milik sendiri,1,Terampil / pegawai,2,Tidak ada,Ya,Buruk
+< 0 DM,8,Masalah / kredit di luar bank,Mobil baru,731,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Properti,47,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Masalah / kredit di luar bank,Furniture,3780,< 100 DM,< 1 thn,3,Pria cerai/pisah,Tidak ada,2,Mobil / lainnya,35,Tidak ada,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Baik
+< 0 DM,21,Masalah / kredit di luar bank,Mobil baru,1602,< 100 DM,>= 7 thn,4,Pria menikah/duda,Tidak ada,3,Mobil / lainnya,30,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,18,Masalah / kredit di luar bank,Mobil baru,3966,< 100 DM,>= 7 thn,1,Wanita menikah/cerai,Tidak ada,4,Properti,33,Bank,Sewa,3,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,18,Tidak pernah kredit / selalu lancar,Bisnis,4165,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Mobil / lainnya,36,Toko,Milik sendiri,2,Terampil / pegawai,2,Tidak ada,Ya,Buruk
+< 0 DM,36,Kredit berjalan lancar,Mobil bekas,8335,Tidak ada / tidak tahu,>= 7 thn,3,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,47,Tidak ada,Gratis,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,48,Pernah telat bayar,Bisnis,6681,Tidak ada / tidak tahu,1-4 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,38,Tidak ada,Gratis,1,Terampil / pegawai,2,Ada,Ya,Baik
+Tidak ada rekening,24,Pernah telat bayar,Bisnis,2375,500-999 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,44,Tidak ada,Milik sendiri,2,Terampil / pegawai,2,Ada,Ya,Baik
+< 0 DM,18,Kredit berjalan lancar,Mobil baru,1216,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,3,Mobil / lainnya,23,Tidak ada,Sewa,1,Terampil / pegawai,1,Ada,Ya,Buruk
+< 0 DM,45,Tidak pernah kredit / selalu lancar,Bisnis,11816,< 100 DM,>= 7 thn,2,Pria lajang,Tidak ada,4,Mobil / lainnya,29,Tidak ada,Sewa,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,24,Kredit berjalan lancar,TV / Radio,5084,Tidak ada / tidak tahu,>= 7 thn,2,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,42,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+>= 200 DM / gaji tetap,15,Kredit berjalan lancar,TV / Radio,2327,< 100 DM,< 1 thn,2,Wanita menikah/cerai,Tidak ada,3,Properti,25,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+< 0 DM,12,Tidak pernah kredit / selalu lancar,Mobil baru,1082,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,48,Bank,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,12,Kredit berjalan lancar,TV / Radio,886,Tidak ada / tidak tahu,1-4 thn,4,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,21,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,4,Kredit berjalan lancar,Furniture,601,< 100 DM,< 1 thn,1,Wanita menikah/cerai,Tidak ada,3,Properti,23,Tidak ada,Sewa,1,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+< 0 DM,24,Masalah / kredit di luar bank,Mobil bekas,2957,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,63,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,24,Masalah / kredit di luar bank,TV / Radio,2611,< 100 DM,>= 7 thn,4,Pria menikah/duda,Ko-pemohon,3,Properti,46,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,36,Kredit berjalan lancar,Furniture,5179,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,2,Tabungan/Asuransi,29,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,21,Pernah telat bayar,Mobil bekas,2993,< 100 DM,1-4 thn,3,Pria lajang,Tidak ada,2,Properti,28,Toko,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Kredit berjalan lancar,Renovasi,1943,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,4,Properti,23,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,24,Kredit di bank ini lancar,Bisnis,1559,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,50,Bank,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,18,Kredit berjalan lancar,Furniture,3422,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,47,Bank,Milik sendiri,3,Terampil / pegawai,2,Ada,Ya,Baik
+0-199 DM,21,Kredit berjalan lancar,Furniture,3976,Tidak ada / tidak tahu,4-7 thn,2,Pria lajang,Tidak ada,3,Mobil / lainnya,35,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,18,Kredit berjalan lancar,Mobil baru,6761,Tidak ada / tidak tahu,1-4 thn,2,Pria lajang,Tidak ada,4,Mobil / lainnya,68,Tidak ada,Sewa,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,24,Kredit berjalan lancar,Mobil baru,1249,< 100 DM,< 1 thn,4,Pria menikah/duda,Tidak ada,2,Properti,28,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,9,Kredit berjalan lancar,TV / Radio,1364,< 100 DM,4-7 thn,3,Pria lajang,Tidak ada,4,Properti,59,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,TV / Radio,709,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Properti,57,Toko,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+< 0 DM,20,Masalah / kredit di luar bank,Mobil baru,2235,< 100 DM,1-4 thn,4,Pria menikah/duda,Penjamin,2,Tabungan/Asuransi,33,Bank,Sewa,2,Terampil / pegawai,1,Tidak ada,Bukan,Buruk
+Tidak ada rekening,24,Masalah / kredit di luar bank,Mobil bekas,4042,Tidak ada / tidak tahu,4-7 thn,3,Pria lajang,Tidak ada,4,Tabungan/Asuransi,43,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,15,Masalah / kredit di luar bank,TV / Radio,1471,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,35,Tidak ada,Gratis,2,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,18,Kredit di bank ini lancar,Mobil baru,1442,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,32,Tidak ada,Gratis,2,Tidak terampil (residen),2,Tidak ada,Ya,Buruk
+Tidak ada rekening,36,Pernah telat bayar,Mobil baru,10875,< 100 DM,>= 7 thn,2,Pria lajang,Tidak ada,2,Mobil / lainnya,45,Tidak ada,Milik sendiri,2,Terampil / pegawai,2,Ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,Mobil baru,1474,100-499 DM,< 1 thn,4,Pria menikah/duda,Tidak ada,3,Properti,33,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,10,Kredit berjalan lancar,Pelatihan ulang,894,Tidak ada / tidak tahu,4-7 thn,4,Wanita menikah/cerai,Tidak ada,3,Tabungan/Asuransi,40,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,15,Masalah / kredit di luar bank,Furniture,3343,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Tidak ada / tidak tahu,28,Tidak ada,Gratis,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,15,Kredit berjalan lancar,Mobil baru,3959,< 100 DM,1-4 thn,3,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,29,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,9,Kredit berjalan lancar,Mobil baru,3577,100-499 DM,1-4 thn,1,Pria lajang,Penjamin,2,Properti,26,Tidak ada,Sewa,1,Terampil / pegawai,2,Tidak ada,Bukan,Baik
+Tidak ada rekening,24,Masalah / kredit di luar bank,Mobil bekas,5804,>= 1000 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Properti,27,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Pernah telat bayar,Bisnis,2169,< 100 DM,1-4 thn,4,Pria menikah/duda,Tidak ada,2,Mobil / lainnya,28,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Buruk
+< 0 DM,24,Kredit berjalan lancar,TV / Radio,2439,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,4,Properti,35,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,27,Masalah / kredit di luar bank,Furniture,4526,>= 1000 DM,< 1 thn,4,Pria lajang,Tidak ada,2,Properti,32,Toko,Milik sendiri,2,Tidak terampil (residen),2,Ada,Ya,Baik
+Tidak ada rekening,10,Kredit berjalan lancar,Furniture,2210,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Properti,25,Bank,Sewa,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+Tidak ada rekening,15,Kredit berjalan lancar,Furniture,2221,500-999 DM,1-4 thn,2,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,20,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,18,Kredit berjalan lancar,TV / Radio,2389,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,1,Mobil / lainnya,27,Toko,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,Furniture,3331,< 100 DM,>= 7 thn,2,Pria lajang,Tidak ada,4,Tabungan/Asuransi,42,Toko,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,36,Kredit berjalan lancar,Bisnis,7409,Tidak ada / tidak tahu,>= 7 thn,3,Pria lajang,Tidak ada,2,Tabungan/Asuransi,37,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,Furniture,652,< 100 DM,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,24,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,36,Pernah telat bayar,Furniture,7678,500-999 DM,4-7 thn,2,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,40,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+>= 200 DM / gaji tetap,6,Masalah / kredit di luar bank,Mobil baru,1343,< 100 DM,>= 7 thn,1,Pria lajang,Tidak ada,4,Properti,46,Tidak ada,Milik sendiri,2,Terampil / pegawai,2,Tidak ada,Bukan,Baik
+< 0 DM,24,Masalah / kredit di luar bank,Bisnis,1382,100-499 DM,4-7 thn,4,Pria lajang,Tidak ada,1,Properti,26,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,15,Kredit berjalan lancar,Peralatan rumah,874,Tidak ada / tidak tahu,< 1 thn,4,Wanita menikah/cerai,Tidak ada,1,Properti,24,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,Furniture,3590,< 100 DM,1-4 thn,2,Pria lajang,Ko-pemohon,2,Tabungan/Asuransi,29,Tidak ada,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+0-199 DM,11,Masalah / kredit di luar bank,Mobil baru,1322,>= 1000 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,40,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,18,Kredit di bank ini lancar,TV / Radio,1940,< 100 DM,< 1 thn,3,Pria lajang,Ko-pemohon,4,Tidak ada / tidak tahu,36,Bank,Gratis,1,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,36,Kredit berjalan lancar,TV / Radio,3595,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,28,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,9,Kredit berjalan lancar,Mobil baru,1422,< 100 DM,< 1 thn,3,Pria lajang,Tidak ada,2,Tidak ada / tidak tahu,27,Tidak ada,Gratis,1,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,30,Masalah / kredit di luar bank,TV / Radio,6742,Tidak ada / tidak tahu,4-7 thn,2,Pria lajang,Tidak ada,3,Tabungan/Asuransi,36,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,Mobil bekas,7814,< 100 DM,4-7 thn,3,Pria lajang,Tidak ada,3,Mobil / lainnya,38,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,Mobil bekas,9277,Tidak ada / tidak tahu,1-4 thn,2,Pria cerai/pisah,Tidak ada,4,Tidak ada / tidak tahu,48,Tidak ada,Gratis,1,Terampil / pegawai,1,Ada,Ya,Baik
+0-199 DM,30,Masalah / kredit di luar bank,Mobil baru,2181,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Properti,36,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,18,Masalah / kredit di luar bank,TV / Radio,1098,< 100 DM,Menganggur,4,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,65,Tidak ada,Milik sendiri,2,Pengangguran / tidak terampil (non-residen),1,Tidak ada,Ya,Baik
+0-199 DM,24,Kredit berjalan lancar,Furniture,4057,< 100 DM,4-7 thn,3,Pria cerai/pisah,Tidak ada,3,Mobil / lainnya,43,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Buruk
+< 0 DM,12,Kredit berjalan lancar,Pendidikan,795,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,53,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,24,Masalah / kredit di luar bank,Bisnis,2825,Tidak ada / tidak tahu,4-7 thn,4,Pria lajang,Tidak ada,3,Tidak ada / tidak tahu,34,Tidak ada,Milik sendiri,2,Terampil / pegawai,2,Ada,Ya,Baik
+0-199 DM,48,Kredit berjalan lancar,Bisnis,15672,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Mobil / lainnya,23,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,36,Masalah / kredit di luar bank,Mobil baru,6614,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,34,Tidak ada,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,28,Kredit di bank ini lancar,Mobil bekas,7824,Tidak ada / tidak tahu,< 1 thn,3,Pria lajang,Penjamin,4,Properti,40,Bank,Sewa,2,Terampil / pegawai,2,Ada,Ya,Baik
+< 0 DM,27,Masalah / kredit di luar bank,Bisnis,2442,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,43,Toko,Milik sendiri,4,Manajer / profesional,2,Ada,Ya,Baik
+Tidak ada rekening,15,Masalah / kredit di luar bank,TV / Radio,1829,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,46,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,12,Masalah / kredit di luar bank,Mobil baru,2171,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,38,Bank,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Bukan,Baik
+0-199 DM,36,Masalah / kredit di luar bank,Mobil bekas,5800,< 100 DM,1-4 thn,3,Pria lajang,Tidak ada,4,Mobil / lainnya,34,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,18,Masalah / kredit di luar bank,TV / Radio,1169,Tidak ada / tidak tahu,1-4 thn,4,Pria lajang,Tidak ada,3,Tabungan/Asuransi,29,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,36,Pernah telat bayar,Mobil bekas,8947,Tidak ada / tidak tahu,4-7 thn,3,Pria lajang,Tidak ada,2,Mobil / lainnya,31,Toko,Milik sendiri,1,Manajer / profesional,2,Ada,Ya,Baik
+< 0 DM,21,Kredit berjalan lancar,TV / Radio,2606,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,28,Tidak ada,Sewa,1,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,Furniture,1592,>= 1000 DM,4-7 thn,3,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,35,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Bukan,Baik
+Tidak ada rekening,15,Kredit berjalan lancar,Furniture,2186,Tidak ada / tidak tahu,4-7 thn,1,Wanita menikah/cerai,Tidak ada,4,Properti,33,Bank,Sewa,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,18,Kredit berjalan lancar,Furniture,4153,< 100 DM,1-4 thn,2,Pria lajang,Ko-pemohon,3,Mobil / lainnya,42,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,16,Masalah / kredit di luar bank,Mobil baru,2625,< 100 DM,>= 7 thn,2,Pria lajang,Penjamin,4,Tabungan/Asuransi,43,Bank,Sewa,1,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,20,Masalah / kredit di luar bank,Mobil baru,3485,Tidak ada / tidak tahu,< 1 thn,2,Pria cerai/pisah,Tidak ada,4,Properti,44,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,36,Masalah / kredit di luar bank,Mobil bekas,10477,Tidak ada / tidak tahu,>= 7 thn,2,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,42,Tidak ada,Gratis,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,15,Kredit berjalan lancar,TV / Radio,1386,Tidak ada / tidak tahu,1-4 thn,4,Pria menikah/duda,Tidak ada,2,Properti,40,Tidak ada,Sewa,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,TV / Radio,1278,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,1,Properti,36,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,TV / Radio,1107,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Properti,20,Tidak ada,Sewa,1,Manajer / profesional,2,Ada,Ya,Baik
+< 0 DM,21,Kredit berjalan lancar,Mobil baru,3763,Tidak ada / tidak tahu,4-7 thn,2,Pria lajang,Ko-pemohon,2,Properti,24,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Bukan,Baik
+0-199 DM,36,Kredit berjalan lancar,Pendidikan,3711,Tidak ada / tidak tahu,1-4 thn,2,Pria menikah/duda,Tidak ada,2,Mobil / lainnya,27,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,15,Pernah telat bayar,Mobil bekas,3594,< 100 DM,< 1 thn,1,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,46,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,9,Kredit berjalan lancar,Mobil baru,3195,Tidak ada / tidak tahu,1-4 thn,1,Wanita menikah/cerai,Tidak ada,2,Properti,33,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,36,Pernah telat bayar,TV / Radio,4454,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,4,Properti,34,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,24,Masalah / kredit di luar bank,Furniture,4736,< 100 DM,< 1 thn,2,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,25,Bank,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+0-199 DM,30,Kredit berjalan lancar,TV / Radio,2991,Tidak ada / tidak tahu,>= 7 thn,2,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,25,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,11,Kredit berjalan lancar,Bisnis,2142,>= 1000 DM,>= 7 thn,1,Pria cerai/pisah,Tidak ada,2,Properti,28,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,24,Kredit di bank ini lancar,Bisnis,3161,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Tabungan/Asuransi,31,Tidak ada,Sewa,1,Terampil / pegawai,1,Ada,Ya,Buruk
+0-199 DM,48,Tidak pernah kredit / selalu lancar,Lainnya,18424,< 100 DM,1-4 thn,1,Wanita menikah/cerai,Tidak ada,2,Tabungan/Asuransi,32,Bank,Milik sendiri,1,Manajer / profesional,1,Ada,Bukan,Buruk
+Tidak ada rekening,10,Kredit berjalan lancar,Mobil bekas,2848,100-499 DM,1-4 thn,1,Pria lajang,Ko-pemohon,2,Properti,32,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Tidak ada,Ya,Baik
+< 0 DM,6,Kredit berjalan lancar,Mobil baru,14896,< 100 DM,>= 7 thn,1,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,68,Bank,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Buruk
+< 0 DM,24,Kredit berjalan lancar,Furniture,2359,100-499 DM,Menganggur,1,Pria cerai/pisah,Tidak ada,1,Tabungan/Asuransi,33,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+< 0 DM,24,Kredit berjalan lancar,Furniture,3345,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,2,Tabungan/Asuransi,39,Tidak ada,Sewa,1,Manajer / profesional,1,Ada,Ya,Buruk
+Tidak ada rekening,18,Masalah / kredit di luar bank,Furniture,1817,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,2,Tidak ada / tidak tahu,28,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,48,Pernah telat bayar,TV / Radio,12749,500-999 DM,4-7 thn,4,Pria lajang,Tidak ada,1,Mobil / lainnya,37,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+< 0 DM,9,Kredit berjalan lancar,TV / Radio,1366,< 100 DM,< 1 thn,3,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,22,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,12,Kredit berjalan lancar,Mobil baru,2002,< 100 DM,4-7 thn,3,Pria lajang,Tidak ada,4,Tabungan/Asuransi,30,Tidak ada,Sewa,1,Terampil / pegawai,2,Ada,Ya,Baik
+< 0 DM,24,Kredit di bank ini lancar,Furniture,6872,< 100 DM,< 1 thn,2,Pria cerai/pisah,Tidak ada,1,Tabungan/Asuransi,55,Bank,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Buruk
+< 0 DM,12,Kredit di bank ini lancar,Mobil baru,697,< 100 DM,< 1 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,46,Bank,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Buruk
+< 0 DM,18,Masalah / kredit di luar bank,Furniture,1049,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,21,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,48,Kredit berjalan lancar,Mobil bekas,10297,< 100 DM,4-7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,39,Toko,Gratis,3,Terampil / pegawai,2,Ada,Ya,Buruk
+Tidak ada rekening,30,Kredit berjalan lancar,TV / Radio,1867,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,58,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,12,Pernah telat bayar,Mobil baru,1344,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Properti,43,Tidak ada,Milik sendiri,2,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+< 0 DM,24,Kredit berjalan lancar,Furniture,1747,< 100 DM,< 1 thn,4,Pria lajang,Ko-pemohon,1,Tabungan/Asuransi,24,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Bukan,Baik
+0-199 DM,9,Kredit berjalan lancar,TV / Radio,1670,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,22,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Buruk
+Tidak ada rekening,9,Masalah / kredit di luar bank,Mobil baru,1224,< 100 DM,1-4 thn,3,Pria lajang,Tidak ada,1,Properti,30,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,TV / Radio,522,500-999 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,42,Tidak ada,Milik sendiri,2,Terampil / pegawai,2,Ada,Ya,Baik
+< 0 DM,12,Kredit berjalan lancar,TV / Radio,1498,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,1,Mobil / lainnya,23,Bank,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,30,Pernah telat bayar,TV / Radio,1919,100-499 DM,< 1 thn,4,Pria lajang,Tidak ada,3,Tidak ada / tidak tahu,30,Toko,Milik sendiri,2,Manajer / profesional,1,Tidak ada,Ya,Buruk
+>= 200 DM / gaji tetap,9,Kredit berjalan lancar,TV / Radio,745,< 100 DM,1-4 thn,3,Wanita menikah/cerai,Tidak ada,2,Properti,28,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+0-199 DM,6,Kredit berjalan lancar,TV / Radio,2063,< 100 DM,< 1 thn,4,Pria menikah/duda,Tidak ada,3,Mobil / lainnya,30,Tidak ada,Sewa,1,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,60,Kredit berjalan lancar,Pendidikan,6288,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,42,Tidak ada,Gratis,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,24,Masalah / kredit di luar bank,Mobil bekas,6842,Tidak ada / tidak tahu,1-4 thn,2,Pria lajang,Tidak ada,4,Tabungan/Asuransi,46,Tidak ada,Milik sendiri,2,Manajer / profesional,2,Ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,Mobil baru,3527,Tidak ada / tidak tahu,< 1 thn,2,Pria lajang,Tidak ada,3,Tabungan/Asuransi,45,Tidak ada,Milik sendiri,1,Manajer / profesional,2,Ada,Ya,Baik
+Tidak ada rekening,10,Kredit berjalan lancar,Mobil baru,1546,< 100 DM,1-4 thn,3,Pria lajang,Tidak ada,2,Properti,31,Tidak ada,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Bukan,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,Furniture,929,Tidak ada / tidak tahu,4-7 thn,4,Pria lajang,Tidak ada,2,Mobil / lainnya,31,Toko,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,4,Masalah / kredit di luar bank,Mobil baru,1455,< 100 DM,4-7 thn,2,Pria lajang,Tidak ada,1,Properti,42,Tidak ada,Milik sendiri,3,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+< 0 DM,15,Kredit berjalan lancar,Furniture,1845,< 100 DM,< 1 thn,4,Wanita menikah/cerai,Penjamin,1,Tabungan/Asuransi,46,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,48,Tidak pernah kredit / selalu lancar,Mobil baru,8358,500-999 DM,< 1 thn,1,Wanita menikah/cerai,Tidak ada,1,Mobil / lainnya,30,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,24,Kredit di bank ini lancar,Furniture,3349,500-999 DM,< 1 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,30,Tidak ada,Gratis,1,Terampil / pegawai,2,Ada,Ya,Buruk
+Tidak ada rekening,12,Kredit berjalan lancar,Mobil baru,2859,Tidak ada / tidak tahu,Menganggur,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,38,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,18,Kredit berjalan lancar,Furniture,1533,< 100 DM,< 1 thn,4,Pria menikah/duda,Ko-pemohon,1,Tabungan/Asuransi,43,Tidak ada,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Ya,Buruk
+Tidak ada rekening,24,Kredit berjalan lancar,TV / Radio,3621,100-499 DM,>= 7 thn,2,Pria lajang,Tidak ada,4,Mobil / lainnya,31,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,18,Masalah / kredit di luar bank,Bisnis,3590,< 100 DM,Menganggur,3,Pria menikah/duda,Tidak ada,3,Mobil / lainnya,40,Tidak ada,Milik sendiri,3,Pengangguran / tidak terampil (non-residen),2,Ada,Ya,Baik
+< 0 DM,36,Pernah telat bayar,Bisnis,2145,< 100 DM,4-7 thn,2,Pria lajang,Tidak ada,1,Mobil / lainnya,24,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Buruk
+0-199 DM,24,Kredit berjalan lancar,Mobil bekas,4113,500-999 DM,< 1 thn,3,Wanita menikah/cerai,Tidak ada,4,Mobil / lainnya,28,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,36,Kredit berjalan lancar,Furniture,10974,< 100 DM,Menganggur,4,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,26,Tidak ada,Milik sendiri,2,Manajer / profesional,1,Ada,Ya,Buruk
+< 0 DM,12,Kredit berjalan lancar,Mobil baru,1893,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Penjamin,4,Tabungan/Asuransi,29,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,24,Masalah / kredit di luar bank,TV / Radio,1231,>= 1000 DM,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,4,Tabungan/Asuransi,57,Tidak ada,Sewa,2,Manajer / profesional,1,Ada,Ya,Baik
+>= 200 DM / gaji tetap,30,Masalah / kredit di luar bank,TV / Radio,3656,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,4,Tabungan/Asuransi,49,Toko,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,9,Masalah / kredit di luar bank,TV / Radio,1154,< 100 DM,>= 7 thn,2,Pria lajang,Tidak ada,4,Properti,37,Tidak ada,Milik sendiri,3,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,28,Kredit berjalan lancar,Mobil baru,4006,< 100 DM,1-4 thn,3,Pria lajang,Tidak ada,2,Mobil / lainnya,45,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+0-199 DM,24,Kredit berjalan lancar,Furniture,3069,100-499 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,30,Tidak ada,Gratis,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,6,Masalah / kredit di luar bank,TV / Radio,1740,< 100 DM,>= 7 thn,2,Pria menikah/duda,Tidak ada,2,Properti,30,Tidak ada,Sewa,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,21,Pernah telat bayar,Mobil baru,2353,< 100 DM,1-4 thn,1,Pria cerai/pisah,Tidak ada,4,Tabungan/Asuransi,47,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,15,Kredit berjalan lancar,Mobil baru,3556,Tidak ada / tidak tahu,1-4 thn,3,Pria lajang,Tidak ada,2,Tidak ada / tidak tahu,29,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,TV / Radio,2397,500-999 DM,>= 7 thn,3,Pria lajang,Tidak ada,2,Mobil / lainnya,35,Bank,Milik sendiri,2,Terampil / pegawai,1,Ada,Ya,Buruk
+0-199 DM,6,Kredit berjalan lancar,Renovasi,454,< 100 DM,< 1 thn,3,Pria menikah/duda,Tidak ada,1,Tabungan/Asuransi,22,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,30,Kredit berjalan lancar,TV / Radio,1715,Tidak ada / tidak tahu,1-4 thn,4,Wanita menikah/cerai,Tidak ada,1,Mobil / lainnya,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,27,Masalah / kredit di luar bank,TV / Radio,2520,500-999 DM,1-4 thn,4,Pria lajang,Tidak ada,2,Tabungan/Asuransi,23,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Buruk
+Tidak ada rekening,15,Kredit berjalan lancar,TV / Radio,3568,< 100 DM,>= 7 thn,4,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,54,Bank,Sewa,1,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,42,Kredit berjalan lancar,TV / Radio,7166,Tidak ada / tidak tahu,4-7 thn,2,Pria menikah/duda,Tidak ada,4,Tabungan/Asuransi,29,Tidak ada,Sewa,1,Terampil / pegawai,1,Ada,Ya,Baik
+< 0 DM,11,Masalah / kredit di luar bank,Mobil baru,3939,< 100 DM,1-4 thn,1,Pria lajang,Tidak ada,2,Properti,40,Tidak ada,Milik sendiri,2,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+0-199 DM,15,Kredit berjalan lancar,Renovasi,1514,100-499 DM,1-4 thn,4,Pria lajang,Penjamin,2,Properti,22,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Kredit berjalan lancar,Mobil baru,7393,< 100 DM,1-4 thn,1,Pria lajang,Tidak ada,4,Tabungan/Asuransi,43,Tidak ada,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+< 0 DM,24,Kredit di bank ini lancar,Mobil baru,1193,< 100 DM,Menganggur,1,Wanita menikah/cerai,Ko-pemohon,4,Tidak ada / tidak tahu,29,Tidak ada,Sewa,2,Pengangguran / tidak terampil (non-residen),1,Tidak ada,Ya,Buruk
+< 0 DM,60,Kredit berjalan lancar,Bisnis,7297,< 100 DM,>= 7 thn,4,Pria lajang,Ko-pemohon,4,Tidak ada / tidak tahu,36,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,30,Masalah / kredit di luar bank,TV / Radio,2831,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,2,Mobil / lainnya,33,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+>= 200 DM / gaji tetap,24,Kredit berjalan lancar,TV / Radio,1258,500-999 DM,1-4 thn,3,Wanita menikah/cerai,Tidak ada,3,Mobil / lainnya,57,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+0-199 DM,6,Kredit berjalan lancar,TV / Radio,753,< 100 DM,1-4 thn,2,Wanita menikah/cerai,Penjamin,3,Properti,64,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+0-199 DM,18,Pernah telat bayar,Bisnis,2427,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,2,Tabungan/Asuransi,42,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,24,Pernah telat bayar,Mobil baru,2538,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,47,Tidak ada,Milik sendiri,2,Tidak terampil (residen),2,Tidak ada,Ya,Buruk
+0-199 DM,15,Kredit di bank ini lancar,Mobil baru,1264,100-499 DM,1-4 thn,2,Pria menikah/duda,Tidak ada,2,Tabungan/Asuransi,25,Tidak ada,Sewa,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+0-199 DM,30,Masalah / kredit di luar bank,Furniture,8386,< 100 DM,4-7 thn,2,Pria lajang,Tidak ada,2,Tabungan/Asuransi,49,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Buruk
+Tidak ada rekening,48,Kredit berjalan lancar,Bisnis,4844,< 100 DM,Menganggur,3,Pria lajang,Tidak ada,2,Mobil / lainnya,33,Bank,Sewa,1,Manajer / profesional,1,Ada,Ya,Buruk
+>= 200 DM / gaji tetap,21,Kredit berjalan lancar,Mobil baru,2923,100-499 DM,1-4 thn,1,Wanita menikah/cerai,Tidak ada,1,Mobil / lainnya,28,Bank,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+< 0 DM,36,Kredit berjalan lancar,Mobil bekas,8229,< 100 DM,1-4 thn,2,Pria lajang,Tidak ada,2,Tabungan/Asuransi,26,Tidak ada,Milik sendiri,1,Terampil / pegawai,2,Tidak ada,Ya,Buruk
+Tidak ada rekening,24,Masalah / kredit di luar bank,Furniture,2028,< 100 DM,4-7 thn,2,Pria lajang,Tidak ada,2,Tabungan/Asuransi,30,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,15,Masalah / kredit di luar bank,Furniture,1433,< 100 DM,1-4 thn,4,Wanita menikah/cerai,Tidak ada,3,Tabungan/Asuransi,25,Tidak ada,Sewa,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+>= 200 DM / gaji tetap,42,Tidak pernah kredit / selalu lancar,Bisnis,6289,< 100 DM,< 1 thn,2,Pria cerai/pisah,Tidak ada,1,Tabungan/Asuransi,33,Tidak ada,Milik sendiri,2,Terampil / pegawai,1,Tidak ada,Ya,Baik
+Tidak ada rekening,13,Kredit berjalan lancar,TV / Radio,1409,100-499 DM,Menganggur,2,Wanita menikah/cerai,Tidak ada,4,Properti,64,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,24,Kredit berjalan lancar,Mobil bekas,6579,< 100 DM,Menganggur,4,Pria lajang,Tidak ada,2,Tidak ada / tidak tahu,29,Tidak ada,Gratis,1,Manajer / profesional,1,Ada,Ya,Baik
+0-199 DM,24,Masalah / kredit di luar bank,TV / Radio,1743,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,2,Tabungan/Asuransi,48,Tidak ada,Milik sendiri,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+Tidak ada rekening,12,Masalah / kredit di luar bank,Pendidikan,3565,Tidak ada / tidak tahu,< 1 thn,2,Pria lajang,Tidak ada,1,Tabungan/Asuransi,37,Tidak ada,Milik sendiri,2,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+Tidak ada rekening,15,Kredit di bank ini lancar,TV / Radio,1569,100-499 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,34,Bank,Milik sendiri,1,Tidak terampil (residen),2,Tidak ada,Ya,Baik
+< 0 DM,18,Kredit berjalan lancar,TV / Radio,1936,Tidak ada / tidak tahu,4-7 thn,2,Pria menikah/duda,Tidak ada,4,Mobil / lainnya,23,Tidak ada,Sewa,2,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,36,Kredit berjalan lancar,Furniture,3959,< 100 DM,Menganggur,4,Pria lajang,Tidak ada,3,Tabungan/Asuransi,30,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,Mobil baru,2390,Tidak ada / tidak tahu,>= 7 thn,4,Pria lajang,Tidak ada,3,Mobil / lainnya,50,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,Furniture,1736,< 100 DM,4-7 thn,3,Wanita menikah/cerai,Tidak ada,4,Properti,31,Tidak ada,Milik sendiri,1,Tidak terampil (residen),1,Tidak ada,Ya,Baik
+< 0 DM,30,Kredit berjalan lancar,Mobil bekas,3857,< 100 DM,1-4 thn,4,Pria cerai/pisah,Tidak ada,4,Tabungan/Asuransi,40,Tidak ada,Milik sendiri,1,Manajer / profesional,1,Ada,Ya,Baik
+Tidak ada rekening,12,Kredit berjalan lancar,TV / Radio,804,< 100 DM,>= 7 thn,4,Pria lajang,Tidak ada,4,Mobil / lainnya,38,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
+< 0 DM,45,Kredit berjalan lancar,TV / Radio,1845,< 100 DM,1-4 thn,4,Pria lajang,Tidak ada,4,Tidak ada / tidak tahu,23,Tidak ada,Gratis,1,Terampil / pegawai,1,Ada,Ya,Buruk
+0-199 DM,45,Masalah / kredit di luar bank,Mobil bekas,4576,100-499 DM,Menganggur,3,Pria lajang,Tidak ada,4,Mobil / lainnya,27,Tidak ada,Milik sendiri,1,Terampil / pegawai,1,Tidak ada,Ya,Baik
