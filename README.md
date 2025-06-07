@@ -11,6 +11,40 @@ This project explores the prediction of creditworthiness using machine learning,
 - `requirements.txt` – list of dependencies.
 - `README.md` – this file.
 
+  ## 🗃️ Dataset Description
+
+This project uses the **German Credit Dataset** from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)).
+
+- **Samples**: 1000 customers
+- **Target Variable**: Creditworthiness (`Good` or `Bad`)
+- **Features**: 20 predictor variables, including demographic and financial attributes
+
+| Feature               | Description                                                |
+|-----------------------|------------------------------------------------------------|
+| Account Status        | Status of checking account (e.g., < 0 DM, ≥ 200 DM)        |
+| Duration              | Duration of the credit in months                           |
+| Credit History        | Past payment record                                        |
+| Credit Purpose        | Purpose of the loan (e.g., car, furniture, education)      |
+| Credit Amount         | Amount of credit in Deutsche Marks                         |
+| Savings/Bonds         | Amount in savings or bonds                                 |
+| Employment Duration   | Length of current employment                               |
+| Installment Rate      | Installment rate in percentage of income                   |
+| Personal Status/Sex   | Marital status and gender                                  |
+| Other Debtors         | Presence of other guarantors or co-debtors                |
+| Residence Since       | Years at current address                                   |
+| Property              | Type of owned property                                     |
+| Age                   | Age of the applicant                                       |
+| Other Installment Plan| Other installment plans (bank, stores, none)               |
+| Housing               | Housing status (own, rent, free)                           |
+| Existing Credits      | Number of existing credits at this bank                    |
+| Job                   | Applicant's job category                                   |
+| Number of Dependents  | Number of people being financially supported               |
+| Telephone             | Whether the customer has a phone                           |
+| Foreign Worker        | Whether the applicant is a foreign worker                  |
+
+The dataset is publicly available and widely used as a benchmark in credit scoring research. It contains no missing values and a class imbalance of 70% `Good` vs 30% `Bad` credit records.
+
+
 ## 🧪 Models Implemented
 
 - **CART (Classification and Regression Trees)**  
